@@ -40,7 +40,7 @@ class ThemeUpdateChecker {
 		$this->theme = $theme;
 		$this->optionName = 'external_theme_updates-'.$this->theme;
 		
-		$this->installHooks();
+		$this->installHooks();		
 	}
 	
 	/**
@@ -62,8 +62,6 @@ class ThemeUpdateChecker {
 		//Delete our update info when WP deletes its own.
 		//This usually happens when a theme is installed, removed or upgraded.
 		add_action('delete_site_transient_update_themes', array($this, 'deleteStoredData'));
-
-		add_filter('upgrader_source_selection', array($this, 'fixDirectoryName'), 10, 3);
 	}
 	
 	/**
@@ -150,8 +148,7 @@ class ThemeUpdateChecker {
 		$state->checkedVersion = $this->getInstalledVersion();
 		update_option($this->optionName, $state); //Save before checking in case something goes wrong 
 		
-		$update = $this->requestUpdate();
-		$state->update = ($update instanceof ThemeUpdate) ? $update->toJson() : $update;
+		$state->update = $this->requestUpdate();
 		update_option($this->optionName, $state);
 	}
 	
@@ -181,80 +178,10 @@ class ThemeUpdateChecker {
 		
 		//Is there an update to insert?
 		if ( !empty($state) && isset($state->update) && !empty($state->update) ){
-			$update = $state->update;
-			if ( is_string($state->update) ) {
-				$update = ThemeUpdate::fromJson($state->update);
-			}
-			$updates->response[$this->theme] = $update->toWpFormat();
+			$updates->response[$this->theme] = $state->update->toWpFormat();
 		}
 		
 		return $updates;
-	}
-
-	/**
-	 * Rename the update directory to match the existing theme directory.
-	 *
-	 * When WordPress installs a theme or plugin update, it expects that the ZIP file will contain
-	 * exactly one directory, and that the directory name will be the same as the directory where
-	 * the theme/plugin is currently installed.
-	 *
-	 * GitHub and other repositories provide ZIP downloads, but they often use directory names like
-	 * "project-branch" or "project-tag-hash". We need to change the name to the actual theme folder.
-	 *
-	 * @param string $source
-	 * @param string $remoteSource
-	 * @param WP_Upgrader $upgrader
-	 * @return string|WP_Error
-	 */
-	function fixDirectoryName($source, $remoteSource, $upgrader) {
-		global $wp_filesystem; /** @var WP_Filesystem_Base $wp_filesystem */
-
-		//Basic sanity checks.
-		if ( !isset($source, $remoteSource, $upgrader, $upgrader->skin, $wp_filesystem) ) {
-			return $source;
-		}
-
-		//Figure out which theme is being upgraded.
-		$themeDirectoryName = null;
-		$skin = $upgrader->skin;
-		if ( $skin instanceof Theme_Upgrader_Skin ) {
-			if ( isset($skin->theme) && is_string($skin->theme) && ($skin->theme !== '') ) {
-				$themeDirectoryName = $skin->theme;
-			}
-		} elseif ( $upgrader->skin instanceof Bulk_Theme_Upgrader_Skin ) {
-			if ( isset($skin->theme_info) && ($skin->theme_info instanceof WP_Theme) ) {
-				$themeDirectoryName = $skin->theme_info->get_stylesheet();
-			}
-		}
-
-		//If WordPress is upgrading something other than a theme (e.g. a plugin),
-		//or if it's not *our* theme, leave everything as is.
-		if ( empty($themeDirectoryName) || ($themeDirectoryName !== $this->theme) ) {
-			return $source;
-		}
-
-		//Rename the source to match the existing theme directory.
-		$correctedSource = trailingslashit($remoteSource) . $themeDirectoryName . '/';
-		if ( $source !== $correctedSource ) {
-			$upgrader->skin->feedback(sprintf(
-				'Renaming %s to %s&#8230;',
-				'<span class="code">' . basename($source) . '</span>',
-				'<span class="code">' . $themeDirectoryName . '</span>'
-			));
-
-			if ( $wp_filesystem->move($source, $correctedSource, true) ) {
-				$upgrader->skin->feedback('Theme directory successfully renamed.');
-				return $correctedSource;
-			} else {
-				return new WP_Error(
-					'tuc-rename-failed',
-					'Unable to rename the update to match the existing theme directory.'
-				);
-			}
-
-		}
-
-		return $source;
 	}
 	
 	/**
@@ -320,7 +247,7 @@ if ( !class_exists('ThemeUpdate') ):
  * 
  * @author Janis Elsts
  * @copyright 2012
- * @version 1.1
+ * @version 1.0
  * @access public
  */
 class ThemeUpdate {
@@ -352,15 +279,6 @@ class ThemeUpdate {
 		}
 		
 		return $update;
-	}
-
-	/**
-	 * Serialize update information as JSON.
-	 *
-	 * @return string
-	 */
-	public function toJson() {
-		return json_encode($this);
 	}
 	
 	/**

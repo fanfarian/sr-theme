@@ -1,6 +1,9 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+## 1.1.3 (2016-08-09)
+* Update checker with folder renaming issue with github zip-files
+
 ## 1.1.2 (2016-08-09)
 * Json file from theme url -> Better control of download link
 * 
