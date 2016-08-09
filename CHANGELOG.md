@@ -1,6 +1,10 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+## 1.1.2 (2016-08-09)
+* Json file from theme url -> Better control of download link
+* 
+
 ## 1.1.1 (2016-08-09)
 * Changelog url and json file from github project 
 

@@ -41,7 +41,7 @@ if ( ! isset( $content_width ) ) {
 /**
  * Sets up theme defaults and registers support for various WordPress features.
  */
-require_once(get_template_directory().'/library/functions/theme-support.php'); 
+require_once(get_template_directory().'/library/functions/theme-support.php');
 
 
 ##############################################################################################################################
@@ -50,7 +50,7 @@ require_once(get_template_directory().'/library/functions/theme-support.php');
 /**
  * Enqueue scripts and styles.
  */
-require_once(get_template_directory().'/library/functions/enqueue-scripts-styles.php'); 
+require_once(get_template_directory().'/library/functions/enqueue-scripts-styles.php');
 
 
 ##############################################################################################################################
@@ -59,12 +59,12 @@ require_once(get_template_directory().'/library/functions/enqueue-scripts-styles
 /**
  * Register custom menus and menu walkers.
  */
-require_once(get_template_directory().'/library/functions/menu.php'); 
+require_once(get_template_directory().'/library/functions/menu.php');
 
 /**
  * Numbered pagination Links
  */
-require_once(get_template_directory().'/library/functions/menu-pagination.php'); 
+require_once(get_template_directory().'/library/functions/menu-pagination.php');
 
 
 ##############################################################################################################################
@@ -73,8 +73,8 @@ require_once(get_template_directory().'/library/functions/menu-pagination.php');
 /**
  * Better WordPress comments.
  */
-require_once(get_template_directory().'/library/functions/comments.php'); 
-require_once(get_template_directory().'/library/functions/comments-navigation.php'); 
+require_once(get_template_directory().'/library/functions/comments.php');
+require_once(get_template_directory().'/library/functions/comments-navigation.php');
 
 
 ##############################################################################################################################
@@ -83,7 +83,7 @@ require_once(get_template_directory().'/library/functions/comments-navigation.ph
 /**
  * Foundation enhancements and changes.
  */
-require_once(get_template_directory().'/library/functions/foundation.php'); 
+require_once(get_template_directory().'/library/functions/foundation.php');
 
 
 ##############################################################################################################################
@@ -92,7 +92,7 @@ require_once(get_template_directory().'/library/functions/foundation.php');
 /**
  * Register widget areas. Default: Left, Right, Offcanvas, Footer.
  */
-require_once(get_template_directory().'/library/functions/theme-widgets.php'); 
+require_once(get_template_directory().'/library/functions/theme-widgets.php');
 
 
 ##############################################################################################################################
@@ -102,7 +102,7 @@ require_once(get_template_directory().'/library/functions/theme-widgets.php');
  * Set Additional Images sizes and add them to the media selector
  * - must be configured.
  */
-// require_once(get_template_directory().'/library/functions/theme-images.php'); 
+// require_once(get_template_directory().'/library/functions/theme-images.php');
 
 
 ##############################################################################################################################
@@ -112,7 +112,7 @@ require_once(get_template_directory().'/library/functions/theme-widgets.php');
  * Related post function - no need to rely on plugins
  * - use sr_related_posts(); in your template file
  */
-// require_once(get_template_directory().'/library/functions/related-posts.php'); 
+// require_once(get_template_directory().'/library/functions/related-posts.php');
 
 
 ##############################################################################################################################
@@ -122,7 +122,7 @@ require_once(get_template_directory().'/library/functions/theme-widgets.php');
  * Customize the WordPress login menu
  * managed through assets/scss/login.scss
  */
-// require_once(get_template_directory().'/library/functions/login.php'); 
+// require_once(get_template_directory().'/library/functions/login.php');
 
 
 ##############################################################################################################################
@@ -132,7 +132,7 @@ require_once(get_template_directory().'/library/functions/theme-widgets.php');
  * Show custom stuff in dashboard activity widget
  * - must be configured!
  */
-// require_once(get_template_directory().'/library/functions/dashboard-widgets.php'); 
+// require_once(get_template_directory().'/library/functions/dashboard-widgets.php');
 
 
 ##############################################################################################################################
@@ -141,9 +141,9 @@ require_once(get_template_directory().'/library/functions/theme-widgets.php');
 if( ! function_exists( 'modify_footer_admin' )) :
 /*
  * Custom footer content in wp-admin
- * 
+ *
  */
-function modify_footer_admin() {  
+function modify_footer_admin() {
 	echo '<span id="footer-thankyou">Site developed with <a href="https://sr-theme.com">sr-theme</a>. Powered by <a href="http://www.wordpress.org">WordPress</a></span>';
 }
 endif; // modify_footer_admin
@@ -163,13 +163,10 @@ add_filter('admin_footer_text', 'modify_footer_admin');
 /**
  * Theme updater checker. Version and zip-file-download in json
  */
-require_once( get_template_directory().'library/theme-update-checker.php');
+require_once( get_template_directory().'/library/theme-update-checker.php');
 $sr_theme_update_checker = new ThemeUpdateChecker(
-	'sr-theme',                                           								 				// Theme folder name, AKA "slug". 
-	'https://raw.githubusercontent.com/fanfarian/sr-theme/master/sr-theme-update.json' 					// URL of the metadata file.
+	'sr-theme',                                           								 				// Theme folder name, AKA "slug".
+	'http://sr-theme.com/wp-content/themes/sr-theme/sr-theme-update.json' 								// URL of the metadata file.
 );
-
-
-
 
 ?>
