@@ -165,8 +165,8 @@ add_filter('admin_footer_text', 'modify_footer_admin');
  */
 require_once( get_template_directory().'library/theme-update-checker.php');
 $sr_theme_update_checker = new ThemeUpdateChecker(
-	'sr-theme',                                            //Theme folder name, AKA "slug". 
-	'http://sr-theme.com/wp-content/themes/sr-theme/sr-theme-update.json' //URL of the metadata file.
+	'sr-theme',                                           								 				// Theme folder name, AKA "slug". 
+	'https://raw.githubusercontent.com/fanfarian/sr-theme/master/sr-theme-update.json' 					// URL of the metadata file.
 );
 
 

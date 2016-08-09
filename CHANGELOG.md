@@ -1,6 +1,9 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+## 1.1.1 (2016-08-09)
+* Changelog url and json file from github project 
+
 ## 1.1.0 (2016-08-09)
 
 * Automatic Updater from GitHub project
