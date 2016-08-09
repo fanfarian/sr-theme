@@ -14,8 +14,6 @@ taxonomy-shoes.php
 
 <?php get_header(); ?>
 			
-<div id="content">
-
 	<div id="inner-content" class="row">
 
 	    <main id="main" class="large-8 medium-8 columns first" role="main">
@@ -44,7 +42,5 @@ taxonomy-shoes.php
 	    <?php get_sidebar(); ?>
 	    
 	</div> <!-- end #inner-content -->
-
-</div> <!-- end #content -->
 
 <?php get_footer(); ?>

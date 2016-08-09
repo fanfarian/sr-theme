@@ -35,3 +35,5 @@
 						<?php get_template_part( 'parts/nav', 'title-bar' ); ?>
 		 	
 					</header> <!-- end .header -->
+					
+					<section id="ajax-content" class="main-content">
