@@ -1,0 +1,19 @@
+{
+  "name": "sr-theme",
+  "description": "Loads packages for foundation and other usefull stuff",
+  "private": true,
+  "license": "GPL-2.0",
+  "ignore": [],
+  "dependencies": {
+    "foundation-sites": "^6.2.3",
+    "motion-ui": "^1.2.2",
+    "fontfaceobserver": "^2.0.1",
+    "what-input": "^3.0.0",
+    "jquery": "^2.2.2"
+  },
+  "resolutions": {
+    "what-input": "^3.0.0",
+    "jquery": "^2.2.2",
+    "fontfaceobserver": "^2.0.1"
+  }
+}

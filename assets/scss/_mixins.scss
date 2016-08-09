@@ -1,0 +1,102 @@
+/******************************************************************
+
+Stylesheet: Mixins & Constants Stylesheet
+
+This is where you can take advantage of Sass' great features:
+Mixins & Constants.
+
+******************************************************************/
+
+
+/*********************
+COLORS
+*********************/
+
+
+/*********************
+TYPOGRAPHY
+*********************/
+@mixin word-wrap() {
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+	hyphens: auto;
+}
+
+@mixin font-size($fs-map, $divisor: 1) {
+	@each $breakpoints, $fs-font-size in $fs-map {
+		@if $breakpoints == small {
+			font-size: rem-calc($fs-font-size / $divisor);
+		}
+		@else {
+			@include breakpoint($breakpoints){
+				font-size: rem-calc($fs-font-size / $divisor);
+			}
+		}
+	}
+}
+
+/*********************
+CSS3 GRADIENTS.
+*********************/
+
+/* @include css-gradient(#dfdfdf,#f8f8f8); */
+@mixin css-gradient($from: #dfdfdf, $to: #f8f8f8) {
+	background-color: $to;
+	background-image: -webkit-gradient(linear, left top, left bottom, from($from), to($to));
+	background-image: -webkit-linear-gradient(top, $from, $to);
+	background-image: -moz-linear-gradient(top, $from, $to);
+	background-image: -o-linear-gradient(top, $from, $to);
+	background-image: linear-gradient(to bottom, $from, $to);
+}
+
+
+/*********************
+CSS-Triangle 
+*********************/
+@mixin triangle($direction, $size: 0.375rem, $color: #222){
+  content: '';
+  display: block;
+  position: absolute;
+  height: 0; width: 0;
+  @if ($direction == 'up'){
+    border-bottom: $size solid $color;
+    border-left: $size solid transparent;
+    border-right: $size solid transparent;
+  }
+  @else if ($direction == 'down'){
+    border-top: $size solid $color;
+    border-left: $size solid transparent;
+    border-right: $size solid transparent;
+  }
+  @else if ($direction == 'left'){
+    border-top: $size solid transparent;
+    border-bottom: $size solid transparent;
+    border-right: $size solid $color;
+  }
+  @else if ($direction == 'right'){
+    border-top: $size solid transparent;
+    border-bottom: $size solid transparent;
+    border-left: $size solid $color;
+  }
+}
+
+/*********************
+Cleafix @extend %clearfix;
+*********************/
+%cf {
+	&:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+}
+
+/*********************
+Background Images 
+*********************/
+@mixin bgImageBasic() {
+	background-position: center center !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+}
+

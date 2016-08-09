@@ -1,0 +1,9 @@
+
+# If using SASS to compile stylesheets this saves conflicts, plus there not needed! #
+assets/scss/.sass-cache/*
+.codekit-cache/*
+
+# no need for these #
+readme.html
+*.log
+.DS_Store

@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sr-theme\n"
+"POT-Creation-Date: 2016-06-30 14:38+0200\n"
+"PO-Revision-Date: 2016-06-30 14:38+0200\n"
+"Last-Translator: Stefan Reichert <reichert@qu-int.com>\n"
+"Language-Team: sr <sr@sr-theme.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_nx;_ex;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;esc_html\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: library/vendor\n"
+
+#: 404.php:12
+msgid "404 - Article Not Found"
+msgstr "404 - Artikel nicht gefunden"
+
+#: 404.php:16
+msgid ""
+"The article you were looking for was not found, but maybe try looking again!"
+msgstr ""
+"Der gesuchte Beitrag wurde nicht gefunden. Versuchen Sie es mit einem "
+"ähnlichen Suchbegriff."
+
+#: comments.php:14
+msgid "No Comments on"
+msgstr "Keine Kommentare"
+
+#: comments.php:14
+msgid "One Comment on"
+msgstr "Ein Kommentar zu"
+
+#: comments.php:14
+msgid "% Comments on"
+msgstr "% Kommentare zu"
+
+#: comments.php:32
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: library/functions/comments-navigation.php:13
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#: library/functions/comments-navigation.php:16
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: library/functions/comments-navigation.php:20
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: library/functions/comments.php:21
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: library/functions/comments.php:22
+msgid " F jS, Y - g:ia"
+msgstr "j. F Y H:i"
+
+#: library/functions/comments.php:23
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: library/functions/comments.php:27
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Freischaltung"
+
+#: library/functions/dashboard-widgets.php:46
+msgid "Publishing Soon"
+msgstr "In Kürze veröffentlichen"
+
+#: library/functions/dashboard-widgets.php:56
+msgid "Recently Published"
+msgstr "Kürzlich veröffentlicht"
+
+#: library/functions/dashboard-widgets.php:64
+msgid "No activity yet!"
+msgstr "Bisher keine Aktivitäten!"
+
+#: library/functions/dashboard-widgets.php:99
+#, php-format
+msgid "See %s more..."
+msgstr "%s mehr…"
+
+#: library/functions/dashboard-widgets.php:114
+msgid "Today"
+msgstr "Heute"
+
+#: library/functions/dashboard-widgets.php:116
+msgid "Tomorrow"
+msgstr "Morgen"
+
+#: library/functions/dashboard-widgets.php:119
+msgid "M jS"
+msgstr "d. M"
+
+#: library/functions/dashboard-widgets.php:124
+#, php-format
+msgid "<span>%1$s, %2$s</span> <a href=\"%3$s\">%4$s</a>"
+msgstr "<span>%1$s, %2$s</span> <a href=\"%3$s\">%4$s</a>"
+
+#: library/functions/menu-pagination.php:48
+msgid "First"
+msgstr "Erste"
+
+#: library/functions/menu-pagination.php:53
+msgid "Previous"
+msgstr "Vorherige"
+
+#: library/functions/menu-pagination.php:67
+msgid "Next"
+msgstr "Nächste"
+
+#: library/functions/menu-pagination.php:71
+msgid "Last"
+msgstr "Letzte"
+
+#: library/functions/menu.php:8
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+#: library/functions/menu.php:9 library/functions/menu.php:63
+msgid "Subnav Menu"
+msgstr "Menü Subnavigation"
+
+#: library/functions/menu.php:10 library/functions/menu.php:104
+msgid "Footer Menu"
+msgstr "Menü Footer"
+
+#: library/functions/related-posts.php:23
+msgid "Related Posts"
+msgstr "Ähnliche Beiträge"
+
+#: library/functions/theme-widgets.php:14
+msgid "Right Sidebar"
+msgstr "Seitenleiste rechts"
+
+#: library/functions/theme-widgets.php:15
+msgid "Widgets in the right sidebar"
+msgstr "Widgets in der rechten Seitenleiste"
+
+#: library/functions/theme-widgets.php:25
+msgid "Left Sidebar"
+msgstr "Seitenleiste links"
+
+#: library/functions/theme-widgets.php:26
+msgid "Widgets in the left sidebar"
+msgstr "Widgets in der linken Seitenleiste"
+
+#: library/functions/theme-widgets.php:37
+msgid "Offcanvas Widgets"
+msgstr "Widgets Offcanvas"
+
+#: library/functions/theme-widgets.php:38
+msgid "Widgets in the offcanvas navigation "
+msgstr "Widgets in der Offcanvs Navigation"
+
+#: library/functions/theme-widgets.php:48
+msgid "Footer Widgets"
+msgstr "Widgets im Footer"
+
+#: library/functions/theme-widgets.php:49
+msgid "Footer Widget Area"
+msgstr "Footer-Widget-Bereich "
+
+#: parts/content-author-info.php:2
+msgid "Written by"
+msgstr "Geschrieben von"
+
+#: parts/content-none.php:6
+msgid "Sorry, No Results."
+msgstr "Keine Ergebnisse"
+
+#: parts/content-none.php:10
+msgid "Try your search again."
+msgstr "Bitte noch mal versuchen."
+
+#: parts/content-none.php:23
+msgid "Oops, Post Not Found!"
+msgstr "Diese Seite konnte leider nicht gefunden werden."
+
+#: parts/content-none.php:27
+msgid "Uh Oh. Something is missing. Try double checking things."
+msgstr "Ohne. Etwas fehlt. Bitte überprüfen Sie alles."
+
+#: parts/loop-archive-grid.php:26 parts/loop-archive.php:12
+msgid "Read more..."
+msgstr "Weiterlesen …"
+
+#: parts/loop-archive-grid.php:30 parts/loop-archive.php:16
+#: parts/loop-single.php:14
+msgid "Tags:"
+msgstr "Tags:"
+
+#: parts/loop-archive.php:4
+msgid "Featured"
+msgstr "Highlight"
+
+#: search.php:9
+msgid "Search Results for:"
+msgstr "Suchergebnisse für:"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "Suche nach:"
+
+#: searchform.php:4
+msgid "Search..."
+msgstr "Suche …"
+
+#: searchform.php:6
+msgid "Search"
+msgstr "Suchen"
+
+#: taxonomy-custom_type.php:24
+msgid "Posts Categorized:"
+msgstr "Beiträge Kategorisiert:"
+
+#~ msgid "Please activate some Widgets."
+#~ msgstr "Bitte aktivieren Sie ein paar Widgets."
+
+#, fuzzy
+#~ msgid "One Comment"
+#~ msgstr "Ein Kommentar zu"
+
+#~ msgid "One comment on &ldquo;%s&rdquo;"
+#~ msgstr "Ein Kommentar zu &ldquo;%s&rdquo;"
+
+#~ msgid "%1$s comments on &ldquo;%2$s&rdquo;"
+#~ msgstr "%1$s Kommentare zu &ldquo;%2$s&rdquo;"
