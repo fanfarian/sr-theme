@@ -1,9 +1,13 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+## 1.1.5 (2016-09-26)
+* Removed word-wrap() mixin from headlines an main content -> use in child where needed
+* German languages updates
+
 ## 1.1.4 (2016-08-09)
-* Removed <div> #content in all templates
-* Added <section> with .main-content in header.php
+* Removed \<div> \#content in all templates
+* Added \<section> with .main-content in header.php
 * Removed old theme-update-checker
 
 ## 1.1.3 (2016-08-09)

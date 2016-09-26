@@ -51,7 +51,6 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 H1, H2, H3, H4, H5 P STYLES
 *********************/
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
-	@include word-wrap();
 	// Removing text decoration from all headline links
 	a {
 		text-decoration: none;
@@ -126,8 +125,6 @@ NAVIGATION STYLES
 POSTS & CONTENT STYLES
 *********************/
 .main-content {
-	@include word-wrap();
-	
 	#inner-content {
 		padding: 1rem 0rem;
 	}

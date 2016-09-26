@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sr-theme\n"
-"POT-Creation-Date: 2016-06-30 14:12+0200\n"
+"POT-Creation-Date: 2016-08-26 15:37+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Stefan Reichert <reichert@qu-int.com>\n"
 "Language-Team: \n"
@@ -19,11 +19,11 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: assets\n"
 "X-Poedit-SearchPathExcluded-1: library/vendor\n"
 
-#: 404.php:12
+#: 404.php:10
 msgid "404 - Article Not Found"
 msgstr ""
 
-#: 404.php:16
+#: 404.php:14
 msgid ""
 "The article you were looking for was not found, but maybe try looking again!"
 msgstr ""
@@ -127,12 +127,16 @@ msgstr ""
 msgid "Main Menu"
 msgstr ""
 
-#: library/functions/menu.php:9 library/functions/menu.php:63
+#: library/functions/menu.php:9 library/functions/menu.php:64
 msgid "Subnav Menu"
 msgstr ""
 
-#: library/functions/menu.php:10 library/functions/menu.php:104
+#: library/functions/menu.php:10 library/functions/menu.php:105
 msgid "Footer Menu"
+msgstr ""
+
+#: library/functions/menu.php:11 library/functions/menu.php:123
+msgid "Socialmedia Menu"
 msgstr ""
 
 #: library/functions/related-posts.php:23
@@ -204,7 +208,7 @@ msgstr ""
 msgid "Featured"
 msgstr ""
 
-#: search.php:9
+#: search.php:7
 msgid "Search Results for:"
 msgstr ""
 
@@ -220,6 +224,6 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
-#: taxonomy-custom_type.php:24
+#: taxonomy-custom_type.php:22
 msgid "Posts Categorized:"
 msgstr ""
