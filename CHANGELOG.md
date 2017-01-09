@@ -1,6 +1,14 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+## 1.1.6 (2017-01-10)
+* Plugin Updates
+	- fontfaceobserver 2.0.7
+	- foundation-sites 6.3.0
+	- jQuery 2.2.4
+	- what-input 4.0.4
+* Added browserconfig.xml with tile.png for Windows 8 Metro interface
+
 ## 1.1.5 (2016-09-26)
 * Removed word-wrap() mixin from headlines an main content -> use in child where needed
 * German languages updates

@@ -19,15 +19,14 @@
     "events"
   ],
   "homepage": "https://github.com/bramstein/fontfaceobserver",
-  "version": "2.0.1",
-  "_release": "2.0.1",
+  "version": "2.0.7",
+  "_release": "2.0.7",
   "_resolution": {
     "type": "version",
-    "tag": "v2.0.1",
-    "commit": "f49e3db47c95ae94abfd64050fb07f53b6131783"
+    "tag": "v2.0.7",
+    "commit": "636d07ae4dcbbe95449e95b76c3bda50f577f278"
   },
   "_source": "https://github.com/bramstein/fontfaceobserver.git",
   "_target": "^2.0.1",
-  "_originalSource": "fontfaceobserver",
-  "_direct": true
+  "_originalSource": "fontfaceobserver"
 }
