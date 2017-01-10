@@ -8,6 +8,7 @@
 	- jQuery 2.2.4
 	- what-input 4.0.4
 * Added browserconfig.xml with tile.png for Windows 8 Metro interface
+* Removed custom font files and use a general system font stack (https://css-tricks.com/snippets/css/system-font-stack/)
 
 ## 1.1.5 (2016-09-26)
 * Removed word-wrap() mixin from headlines an main content -> use in child where needed
