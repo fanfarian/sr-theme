@@ -38,6 +38,8 @@ H1, H2, H3, H4, H5 P STYLES
 *********************/
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 	// Removing text decoration from all headline links
+	word-wrap: break-word;
+	
 	a {
 		text-decoration: none;
 	}
@@ -66,6 +68,7 @@ h5, .h5 {
 p {
     margin-top: 0;
     margin-bottom: 24px;
+    word-wrap: break-word;
 }
 
 p:last-child {
@@ -111,6 +114,8 @@ NAVIGATION STYLES
 POSTS & CONTENT STYLES
 *********************/
 .main-content {
+	word-wrap: break-word;
+	
 	#inner-content {
 		padding: 1rem 0rem;
 	}
@@ -245,7 +250,7 @@ article.type-post {
 
 // Add Foundation video styling to css created via the 'sr-theme-functionality' plugin
 .embed-container {
-	@include flex-video($flexvideo-ratio-widescreen);
+	@include responsive-embed(widescreen);
 }
 
 // Add Foundation styling to password protect button

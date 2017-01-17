@@ -10,7 +10,7 @@ function sr_enqueue_scripts_styles()
 	wp_enqueue_style( 'sr-theme', get_template_directory_uri() . '/assets/css/style.css', array(), '', 'all' );
 	
 	// Load What-Input files in footer
-	wp_enqueue_script( 'what-input', get_template_directory_uri() . '/library/vendor/what-input/dist/what-input.min.js', array(), '', true );					// What-Input plugin for input specific styles with foundation
+	wp_enqueue_script( 'what-input', get_template_directory_uri() . '/library/vendor/what-input/dist/what-input.min.js', array(), '4.0.4', true );				// What-Input plugin for input specific styles with foundation
 	
 	// use newest jquery from /library/vendor/
 	wp_deregister_script('jquery');																																// disable WP internal jquery for own version

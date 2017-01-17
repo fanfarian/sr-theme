@@ -1,6 +1,17 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+
+## 1.1.7 (2017-01-17)
+* Foundation 6.3 adjustments
+    - flex-video -> responsive-embed
+    - settings.scss
+    - New module 'card'
+    - More details: https://github.com/zurb/foundation-sites/releases/tag/v6.3.0
+* Library functions moved to child-theme
+* Screenshot dimensions updated to 1200x900
+* word-wrap: break-word; for headlines, p and .main-content
+
 ## 1.1.6 (2017-01-10)
 * Plugin Updates
 	- fontfaceobserver 2.0.7
@@ -8,7 +19,10 @@
 	- jQuery 2.2.4
 	- what-input 4.0.4
 * Added browserconfig.xml with tile.png for Windows 8 Metro interface
-* Removed custom font files and use a general system font stack (https://css-tricks.com/snippets/css/system-font-stack/)
+* Removed custom font files and fontfaceobserver script in favour of a general system font stack (https://css-tricks.com/snippets/css/system-font-stack/)
+### Update your child-theme 
+    Enqueue the fontfaceobserver.js into the child theme:
+    wp_enqueue_script( 'fontfaceobserver', get_template_directory_uri() . '/library/vendor/fontfaceobserver/fontfaceobserver.js', array( ), '2.0.7', false );
 
 ## 1.1.5 (2016-09-26)
 * Removed word-wrap() mixin from headlines an main content -> use in child where needed

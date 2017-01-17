@@ -98,46 +98,6 @@ require_once(get_template_directory().'/library/functions/theme-widgets.php');
 ##############################################################################################################################
 ##############################################################################################################################
 
-/**
- * Set Additional Images sizes and add them to the media selector
- * - must be configured.
- */
-// require_once(get_template_directory().'/library/functions/theme-images.php');
-
-
-##############################################################################################################################
-##############################################################################################################################
-
-/**
- * Related post function - no need to rely on plugins
- * - use sr_related_posts(); in your template file
- */
-// require_once(get_template_directory().'/library/functions/related-posts.php');
-
-
-##############################################################################################################################
-##############################################################################################################################
-
-/**
- * Customize the WordPress login menu
- * managed through assets/scss/login.scss
- */
-// require_once(get_template_directory().'/library/functions/login.php');
-
-
-##############################################################################################################################
-##############################################################################################################################
-
-/**
- * Show custom stuff in dashboard activity widget
- * - must be configured!
- */
-// require_once(get_template_directory().'/library/functions/dashboard-widgets.php');
-
-
-##############################################################################################################################
-##############################################################################################################################
-
 if( ! function_exists( 'modify_footer_admin' )) :
 /*
  * Custom footer content in wp-admin
@@ -152,13 +112,6 @@ add_filter('admin_footer_text', 'modify_footer_admin');
 
 ##############################################################################################################################
 ##############################################################################################################################
-
-/**
- * Theme updater with http://wp-updates.com/
- */
-//require_once( get_template_directory().'/library/wp-updates-theme.php' );
-//new WPUpdatesThemeUpdater_1818( 'http://wp-updates.com/api/2/theme', basename( get_template_directory() ) );
-
 
 /**
  * Theme updater checker. Version and zip-file-download in json

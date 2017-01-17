@@ -27,6 +27,12 @@
 		"oAP": "\/.jshintignore",
 		"oF": 0
 		},
+	"\/00000002": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/00000002",
+		"oF": 0
+		},
 	"\/404.php": {
 		"ft": 8192,
 		"oA": 0,
@@ -893,6 +899,30 @@
 		"oAP": "\/languages\/default.po",
 		"oF": 0
 		},
+	"\/library\/functions\/CHILD-FUNCTION-dashboard-widgets.php": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/library\/functions\/CHILD-FUNCTION-dashboard-widgets.php",
+		"oF": 0
+		},
+	"\/library\/functions\/CHILD-FUNCTION-login.php": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/library\/functions\/CHILD-FUNCTION-login.php",
+		"oF": 0
+		},
+	"\/library\/functions\/CHILD-FUNCTION-related-posts.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/functions\/CHILD-FUNCTION-related-posts.php",
+		"oF": 0
+		},
+	"\/library\/functions\/CHILD-FUNCTION-theme-images.php": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/library\/functions\/CHILD-FUNCTION-theme-images.php",
+		"oF": 0
+		},
 	"\/library\/functions\/comments-navigation.php": {
 		"ft": 8192,
 		"oA": 0,
@@ -903,12 +933,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/library\/functions\/comments.php",
-		"oF": 0
-		},
-	"\/library\/functions\/dashboard-widgets.php": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/library\/functions\/dashboard-widgets.php",
 		"oF": 0
 		},
 	"\/library\/functions\/enqueue-scripts-styles.php": {
@@ -923,12 +947,6 @@
 		"oAP": "\/library\/functions\/foundation.php",
 		"oF": 0
 		},
-	"\/library\/functions\/login.php": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/library\/functions\/login.php",
-		"oF": 0
-		},
 	"\/library\/functions\/menu-pagination.php": {
 		"ft": 8192,
 		"oA": 0,
@@ -939,18 +957,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/library\/functions\/menu.php",
-		"oF": 0
-		},
-	"\/library\/functions\/related-posts.php": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/library\/functions\/related-posts.php",
-		"oF": 0
-		},
-	"\/library\/functions\/theme-images.php": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/library\/functions\/theme-images.php",
 		"oF": 0
 		},
 	"\/library\/functions\/theme-support.php": {
@@ -5138,7 +5144,7 @@
 		"oA": 0,
 		"oAP": "\/screenshot.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/search.php": {
 		"ft": 8192,
@@ -5252,7 +5258,7 @@
 	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1, ie >= 9, and_chr >= 2.3",
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,

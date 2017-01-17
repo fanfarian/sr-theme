@@ -48,7 +48,7 @@ if ($tags) {
 	$tag_ids[] = $individual_tag->term_id;
   }
 
-  echo 'Related Posts';
+  echo '<h4 class="related-posts-headline">'.__('Related Posts', 'sr-theme').'</h4>';
   
   $args=array(
     'tag__in' => $tag_ids,

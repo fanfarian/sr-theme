@@ -8,6 +8,22 @@
 
 <h1 id="changelog">Changelog</h1>
 
+<h2 id="1.1.72017-01-17">1.1.7 (2017&#8211;01&#8211;17)</h2>
+
+<ul>
+<li>Foundation 6.3 adjustments
+
+<ul>
+<li>flex-video -&gt; responsive-embed</li>
+<li>settings.scss</li>
+<li>New module &#8216;card&#8217;</li>
+<li>More details: https://github.com/zurb/foundation-sites/releases/tag/v6.3.0</li>
+</ul></li>
+<li>Library functions moved to child-theme</li>
+<li>Screenshot dimensions updated to 1200x900</li>
+<li>word-wrap: break-word; for headlines, p and .main-content</li>
+</ul>
+
 <h2 id="1.1.62017-01-10">1.1.6 (2017&#8211;01&#8211;10)</h2>
 
 <ul>
@@ -20,8 +36,14 @@
 <li>what-input 4.0.4</li>
 </ul></li>
 <li>Added browserconfig.xml with tile.png for Windows 8 Metro interface</li>
-<li>Removed custom font files and use a general system font stack (https://css-tricks.com/snippets/css/system-font-stack/)</li>
+<li>Removed custom font files and fontfaceobserver script in favour of a general system font stack (https://css-tricks.com/snippets/css/system-font-stack/)</li>
 </ul>
+
+<h3 id="updateyourchild-theme">Update your child-theme</h3>
+
+<pre><code>Enqueue the fontfaceobserver.js into the child theme:
+wp_enqueue_script( 'fontfaceobserver', get_template_directory_uri() . '/library/vendor/fontfaceobserver/fontfaceobserver.js', array( ), '2.0.7', false );
+</code></pre>
 
 <h2 id="1.1.52016-09-26">1.1.5 (2016&#8211;09&#8211;26)</h2>
 
