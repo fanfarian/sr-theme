@@ -1,6 +1,9 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+## 1.1.8 (2017-01-20)
+* Changed update functionality to YahnisElsts PUC (https://github.com/YahnisElsts/plugin-update-checker)
+* Added sr-theme-child.zip into /library
 
 ## 1.1.7 (2017-01-17)
 * Foundation 6.3 adjustments
@@ -51,3 +54,4 @@
 
 ## 1.0.0 - 1.0.3 (2016-03-24)
 * Manual version with small updates
+

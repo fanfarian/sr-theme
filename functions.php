@@ -114,12 +114,13 @@ add_filter('admin_footer_text', 'modify_footer_admin');
 ##############################################################################################################################
 
 /**
- * Theme updater checker. Version and zip-file-download in json
+ * Theme updater checker
  */
-require_once( get_template_directory().'/library/theme-update-checker.php');
-$sr_theme_update_checker = new ThemeUpdateChecker(
-	'sr-theme',                                           								 				// Theme folder name, AKA "slug".
-	'http://sr-theme.com/wp-content/themes/sr-theme/sr-theme-update.json' 								// URL of the metadata file.
+require_once( get_template_directory().'/library/plugin-update-checker/plugin-update-checker.php' );
+$myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
+    'https://github.com/fanfarian/sr-theme/',
+    __FILE__,
+    'sr-theme'
 );
 
 ?>

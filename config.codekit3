@@ -7,7 +7,7 @@
 		"uuidString": "21EFF807-0F4E-44B9-96CB-4638B542B03A"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25504",
 "files": {
 	"\/.bowerrc": {
 		"ft": 8192,
@@ -25,12 +25,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.jshintignore",
-		"oF": 0
-		},
-	"\/00000002": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/00000002",
 		"oF": 0
 		},
 	"\/404.php": {
@@ -971,10 +965,323 @@
 		"oAP": "\/library\/functions\/theme-widgets.php",
 		"oF": 0
 		},
-	"\/library\/theme-update-checker.php": {
-		"ft": 8192,
+	"\/library\/plugin-update-checker\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/library\/plugin-update-checker\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/library\/plugin-update-checker\/css\/puc-debug-bar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/css\/puc-debug-bar-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/library\/plugin-update-checker\/examples\/plugin.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/library\/plugin-update-checker\/examples\/plugin-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/library\/plugin-update-checker\/examples\/theme.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/library\/plugin-update-checker\/examples\/theme-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/library\/plugin-update-checker\/js\/debug-bar.js": {
+		"ft": 64,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/theme-update-checker.php",
+		"oAP": "\/library\/plugin-update-checker\/js\/debug-bar.min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-de_DE.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/languages\/plugin-update-checker-de_DE.mo",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-de_DE.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/languages\/plugin-update-checker-de_DE.po",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-fa_IR.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/languages\/plugin-update-checker-fa_IR.mo",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-fa_IR.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/languages\/plugin-update-checker-fa_IR.po",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-fr_FR.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/languages\/plugin-update-checker-fr_FR.mo",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-fr_FR.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/languages\/plugin-update-checker-fr_FR.po",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-hu_HU.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/languages\/plugin-update-checker-hu_HU.mo",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-hu_HU.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/languages\/plugin-update-checker-hu_HU.po",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-it_IT.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/languages\/plugin-update-checker-it_IT.mo",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-it_IT.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/languages\/plugin-update-checker-it_IT.po",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/languages\/plugin-update-checker.pot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/languages\/plugin-update-checker.pot",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/license.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/license.txt",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/plugin-update-checker.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/plugin-update-checker.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Autoloader.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Autoloader.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/DebugBar\/Extension.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/DebugBar\/Extension.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/DebugBar\/Panel.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/DebugBar\/Panel.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/DebugBar\/PluginExtension.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/DebugBar\/PluginExtension.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/DebugBar\/PluginPanel.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/DebugBar\/PluginPanel.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/DebugBar\/ThemePanel.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/DebugBar\/ThemePanel.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Factory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Factory.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Metadata.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Metadata.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/OAuthSignature.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/OAuthSignature.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Plugin\/Info.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Plugin\/Info.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Plugin\/Update.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Plugin\/Update.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Plugin\/UpdateChecker.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Plugin\/UpdateChecker.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Scheduler.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Scheduler.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/StateStore.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/StateStore.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Theme\/Update.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Theme\/Update.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Theme\/UpdateChecker.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Theme\/UpdateChecker.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Update.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Update.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/UpdateChecker.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/UpdateChecker.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/UpgraderStatus.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/UpgraderStatus.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Utils.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Utils.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/Api.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/Api.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/BaseChecker.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/BaseChecker.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/BitBucketApi.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/BitBucketApi.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/GitHubApi.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/GitHubApi.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/PluginUpdateChecker.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/PluginUpdateChecker.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/Reference.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/Reference.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/ThemeUpdateChecker.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/Puc\/v4\/Vcs\/ThemeUpdateChecker.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/library\/plugin-update-checker\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/library\/plugin-update-checker\/vendor\/Parsedown.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/vendor\/Parsedown.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/vendor\/ParsedownLegacy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/vendor\/ParsedownLegacy.php",
+		"oF": 0
+		},
+	"\/library\/plugin-update-checker\/vendor\/readme-parser.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/plugin-update-checker\/vendor\/readme-parser.php",
 		"oF": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/.bower.json": {
@@ -5182,14 +5489,6 @@
 		"oAP": "\/single.php",
 		"oF": 0
 		},
-	"\/sr-theme-update.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/sr-theme-update-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"\/style.css": {
 		"aP": 0,
 		"bl": 0,
@@ -5899,6 +6198,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -6438,6 +6741,10 @@
 		"prefer-const": {
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
 		"prefer-numeric-literals": {
 			"active": 0,
