@@ -1,6 +1,18 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+
+## 1.1.10 (2017-03-31)
+* Test: Freemius Theme Analytics
+* Language updates
+
+
+## 1.1.9 (2017-02-09)
+* Updated Off-Canvas templates for Foundation 6.3
+* jQuery 3.1.1
+* Compress some .png files
+
+
 ## 1.1.8 (2017-01-20)
 * Changed update functionality to YahnisElsts PUC (https://github.com/YahnisElsts/plugin-update-checker)
 * Added sr-theme-child.zip into /library
@@ -23,9 +35,9 @@
 	- what-input 4.0.4
 * Added browserconfig.xml with tile.png for Windows 8 Metro interface
 * Removed custom font files and fontfaceobserver script in favour of a general system font stack (https://css-tricks.com/snippets/css/system-font-stack/)
-### Update your child-theme 
-    Enqueue the fontfaceobserver.js into the child theme:
-    wp_enqueue_script( 'fontfaceobserver', get_template_directory_uri() . '/library/vendor/fontfaceobserver/fontfaceobserver.js', array( ), '2.0.7', false );
+### BREAKING: Update your child-theme 
+    * Enqueue the fontfaceobserver.js into the child theme **functions.php** :
+    * wp_enqueue_script( 'fontfaceobserver', get_template_directory_uri() . '/library/vendor/fontfaceobserver/fontfaceobserver.js', array( ), '2.0.7', false );
 
 ## 1.1.5 (2016-09-26)
 * Removed word-wrap() mixin from headlines an main content -> use in child where needed

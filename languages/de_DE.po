@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sr-theme\n"
-"POT-Creation-Date: 2016-08-26 15:36+0200\n"
-"PO-Revision-Date: 2016-08-26 15:37+0200\n"
+"POT-Creation-Date: 2017-03-31 09:31+0200\n"
+"PO-Revision-Date: 2017-03-31 09:31+0200\n"
 "Last-Translator: Stefan Reichert <reichert@qu-int.com>\n"
 "Language-Team: sr <sr@sr-theme.com>\n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 2.0\n"
 "X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-KeywordsList: __;_e;_x;_nx;_ex;esc_attr__;esc_attr_e;esc_attr_x;"
@@ -46,6 +46,44 @@ msgstr "% Kommentare zu"
 msgid "Comments are closed."
 msgstr "Kommentare sind geschlossen."
 
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:46
+msgid "Publishing Soon"
+msgstr "In Kürze veröffentlichen"
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:56
+msgid "Recently Published"
+msgstr "Kürzlich veröffentlicht"
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:64
+msgid "No activity yet!"
+msgstr "Bisher keine Aktivitäten!"
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:99
+#, php-format
+msgid "See %s more..."
+msgstr "%s mehr…"
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:114
+msgid "Today"
+msgstr "Heute"
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:116
+msgid "Tomorrow"
+msgstr "Morgen"
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:119
+msgid "M jS"
+msgstr "d. M"
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:124
+#, php-format
+msgid "<span>%1$s, %2$s</span> <a href=\"%3$s\">%4$s</a>"
+msgstr "<span>%1$s, %2$s</span> <a href=\"%3$s\">%4$s</a>"
+
+#: library/functions/CHILD-FUNCTION-related-posts.php:23
+msgid "Related Posts"
+msgstr "Ähnliche Beiträge"
+
 #: library/functions/comments-navigation.php:13
 msgid "Comment navigation"
 msgstr "Kommentar-Navigation"
@@ -74,40 +112,6 @@ msgstr "(Bearbeiten)"
 #: library/functions/comments.php:27
 msgid "Your comment is awaiting moderation."
 msgstr "Ihr Kommentar wartet auf Freischaltung"
-
-#: library/functions/dashboard-widgets.php:46
-msgid "Publishing Soon"
-msgstr "In Kürze veröffentlichen"
-
-#: library/functions/dashboard-widgets.php:56
-msgid "Recently Published"
-msgstr "Kürzlich veröffentlicht"
-
-#: library/functions/dashboard-widgets.php:64
-msgid "No activity yet!"
-msgstr "Bisher keine Aktivitäten!"
-
-#: library/functions/dashboard-widgets.php:99
-#, php-format
-msgid "See %s more..."
-msgstr "%s mehr…"
-
-#: library/functions/dashboard-widgets.php:114
-msgid "Today"
-msgstr "Heute"
-
-#: library/functions/dashboard-widgets.php:116
-msgid "Tomorrow"
-msgstr "Morgen"
-
-#: library/functions/dashboard-widgets.php:119
-msgid "M jS"
-msgstr "d. M"
-
-#: library/functions/dashboard-widgets.php:124
-#, php-format
-msgid "<span>%1$s, %2$s</span> <a href=\"%3$s\">%4$s</a>"
-msgstr "<span>%1$s, %2$s</span> <a href=\"%3$s\">%4$s</a>"
 
 #: library/functions/menu-pagination.php:48
 msgid "First"
@@ -141,10 +145,6 @@ msgstr "Menü Footer"
 msgid "Socialmedia Menu"
 msgstr "Menü Socialmedia"
 
-#: library/functions/related-posts.php:23
-msgid "Related Posts"
-msgstr "Ähnliche Beiträge"
-
 #: library/functions/theme-widgets.php:14
 msgid "Right Sidebar"
 msgstr "Seitenleiste rechts"
@@ -176,6 +176,27 @@ msgstr "Widgets im Footer"
 #: library/functions/theme-widgets.php:49
 msgid "Footer Widget Area"
 msgstr "Footer-Widget-Bereich "
+
+#: library/plugin-update-checker/Puc/v4/Plugin/UpdateChecker.php:358
+msgid "Check for updates"
+msgstr "Auf Updates prüfen"
+
+#: library/plugin-update-checker/Puc/v4/Plugin/UpdateChecker.php:404
+msgid "This plugin is up to date."
+msgstr "Dieses Plugin ist auf dem neuesten Stand."
+
+#: library/plugin-update-checker/Puc/v4/Plugin/UpdateChecker.php:406
+msgid "A new version of this plugin is available."
+msgstr "Eine neue Version dieses Plugins ist verfügbar."
+
+#: library/plugin-update-checker/Puc/v4/Plugin/UpdateChecker.php:408
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Unbekannter Aktualisierungs-Status \"%s\""
+
+#: library/plugin-update-checker/Puc/v4/Vcs/PluginUpdateChecker.php:83
+msgid "There is no changelog available."
+msgstr "Es steht kein Änderungsprotokoll zur Verfügung."
 
 #: parts/content-author-info.php:2
 msgid "Written by"
