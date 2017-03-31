@@ -8,6 +8,21 @@
 
 <h1 id="changelog">Changelog</h1>
 
+<h2 id="1.1.102017-03-31">1.1.10 (2017&#8211;03&#8211;31)</h2>
+
+<ul>
+<li>Test: Freemius Theme Analytics</li>
+<li>Language updates</li>
+</ul>
+
+<h2 id="1.1.92017-02-09">1.1.9 (2017&#8211;02&#8211;09)</h2>
+
+<ul>
+<li>Updated Off-Canvas templates for Foundation 6.3</li>
+<li>jQuery 3.1.1</li>
+<li>Compress some .png files</li>
+</ul>
+
 <h2 id="1.1.82017-01-20">1.1.8 (2017&#8211;01&#8211;20)</h2>
 
 <ul>
@@ -46,10 +61,10 @@
 <li>Removed custom font files and fontfaceobserver script in favour of a general system font stack (https://css-tricks.com/snippets/css/system-font-stack/)</li>
 </ul>
 
-<h3 id="updateyourchild-theme">Update your child-theme</h3>
+<h3 id="breaking:updateyourchild-theme">BREAKING: Update your child-theme</h3>
 
-<pre><code>Enqueue the fontfaceobserver.js into the child theme:
-wp_enqueue_script( 'fontfaceobserver', get_template_directory_uri() . '/library/vendor/fontfaceobserver/fontfaceobserver.js', array( ), '2.0.7', false );
+<pre><code>* Enqueue the fontfaceobserver.js into the child theme **functions.php** :
+* wp_enqueue_script( 'fontfaceobserver', get_template_directory_uri() . '/library/vendor/fontfaceobserver/fontfaceobserver.js', array( ), '2.0.7', false );
 </code></pre>
 
 <h2 id="1.1.52016-09-26">1.1.5 (2016&#8211;09&#8211;26)</h2>

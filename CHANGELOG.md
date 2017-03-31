@@ -66,4 +66,3 @@
 
 ## 1.0.0 - 1.0.3 (2016-03-24)
 * Manual version with small updates
-
