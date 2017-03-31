@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sr-theme\n"
-"POT-Creation-Date: 2016-08-26 15:37+0200\n"
+"POT-Creation-Date: 2017-03-31 09:31+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Stefan Reichert <reichert@qu-int.com>\n"
 "Language-Team: \n"
@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 2.0\n"
 "X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-KeywordsList: __;_e;_x;_nx;_ex;esc_attr__;esc_attr_e;esc_attr_x;"
@@ -44,6 +44,44 @@ msgstr ""
 msgid "Comments are closed."
 msgstr ""
 
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:46
+msgid "Publishing Soon"
+msgstr ""
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:56
+msgid "Recently Published"
+msgstr ""
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:64
+msgid "No activity yet!"
+msgstr ""
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:99
+#, php-format
+msgid "See %s more..."
+msgstr ""
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:114
+msgid "Today"
+msgstr ""
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:116
+msgid "Tomorrow"
+msgstr ""
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:119
+msgid "M jS"
+msgstr ""
+
+#: library/functions/CHILD-FUNCTION-dashboard-widgets.php:124
+#, php-format
+msgid "<span>%1$s, %2$s</span> <a href=\"%3$s\">%4$s</a>"
+msgstr ""
+
+#: library/functions/CHILD-FUNCTION-related-posts.php:23
+msgid "Related Posts"
+msgstr ""
+
 #: library/functions/comments-navigation.php:13
 msgid "Comment navigation"
 msgstr ""
@@ -71,40 +109,6 @@ msgstr ""
 
 #: library/functions/comments.php:27
 msgid "Your comment is awaiting moderation."
-msgstr ""
-
-#: library/functions/dashboard-widgets.php:46
-msgid "Publishing Soon"
-msgstr ""
-
-#: library/functions/dashboard-widgets.php:56
-msgid "Recently Published"
-msgstr ""
-
-#: library/functions/dashboard-widgets.php:64
-msgid "No activity yet!"
-msgstr ""
-
-#: library/functions/dashboard-widgets.php:99
-#, php-format
-msgid "See %s more..."
-msgstr ""
-
-#: library/functions/dashboard-widgets.php:114
-msgid "Today"
-msgstr ""
-
-#: library/functions/dashboard-widgets.php:116
-msgid "Tomorrow"
-msgstr ""
-
-#: library/functions/dashboard-widgets.php:119
-msgid "M jS"
-msgstr ""
-
-#: library/functions/dashboard-widgets.php:124
-#, php-format
-msgid "<span>%1$s, %2$s</span> <a href=\"%3$s\">%4$s</a>"
 msgstr ""
 
 #: library/functions/menu-pagination.php:48
@@ -139,10 +143,6 @@ msgstr ""
 msgid "Socialmedia Menu"
 msgstr ""
 
-#: library/functions/related-posts.php:23
-msgid "Related Posts"
-msgstr ""
-
 #: library/functions/theme-widgets.php:14
 msgid "Right Sidebar"
 msgstr ""
@@ -173,6 +173,27 @@ msgstr ""
 
 #: library/functions/theme-widgets.php:49
 msgid "Footer Widget Area"
+msgstr ""
+
+#: library/plugin-update-checker/Puc/v4/Plugin/UpdateChecker.php:358
+msgid "Check for updates"
+msgstr ""
+
+#: library/plugin-update-checker/Puc/v4/Plugin/UpdateChecker.php:404
+msgid "This plugin is up to date."
+msgstr ""
+
+#: library/plugin-update-checker/Puc/v4/Plugin/UpdateChecker.php:406
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#: library/plugin-update-checker/Puc/v4/Plugin/UpdateChecker.php:408
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: library/plugin-update-checker/Puc/v4/Vcs/PluginUpdateChecker.php:83
+msgid "There is no changelog available."
 msgstr ""
 
 #: parts/content-author-info.php:2
