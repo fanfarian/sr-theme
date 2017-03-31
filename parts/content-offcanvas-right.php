@@ -1,4 +1,4 @@
-<div class="off-canvas position-right" id="offCanvas" data-off-canvas data-position="right">
+<div class="off-canvas position-right" id="offCanvas" data-off-canvas>	
 	
 	<?php sr_offcanvas_navigation(); ?>
 	

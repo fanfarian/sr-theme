@@ -21,19 +21,18 @@
 	<body <?php body_class(); ?>>
 
 		<div class="off-canvas-wrapper">
-			
-			<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+						
+			<!-- Include 'offcanvas-left' for navigation on the left side	-->
+			<?php // get_template_part( 'parts/content', 'offcanvas-right' ); ?>
 				
-				<!-- Include 'offcanvas-left' for navigation on the left side	-->
-				<?php // get_template_part( 'parts/content', 'offcanvas-right' ); ?>
-				
-				<div class="off-canvas-content" data-off-canvas-content>
+			<div class="off-canvas-content" data-off-canvas-content>
 					
-					<header class="header" role="banner">
+				<header id="top" class="header" role="banner">
 							
-						 <!-- Include your navigation here, please see /template-parts for other styles -->
-						<?php get_template_part( 'parts/nav', 'title-bar' ); ?>
+					 <!-- Include your navigation here, please see /template-parts for other styles -->
+					<?php get_template_part( 'parts/nav', 'title-bar' ); ?>
 		 	
-					</header> <!-- end .header -->
+				</header> <!-- end .header -->
 					
-					<section id="ajax-content" class="main-content">
+				<section id="ajax-content" class="main-content">
+				

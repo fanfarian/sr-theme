@@ -6,7 +6,7 @@
     <div class="small-12 columns">
 -->
 
-		<div class="top-bar" id="top-bar-menu">
+		<div  id="top-bar-menu" class="top-bar">
 			<div class="top-bar-left">
 				<ul class="menu">
 					<li class="menu-text"><a href="<?php echo home_url(); ?>"><?php bloginfo('name'); ?></a></li>

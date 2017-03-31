@@ -5,10 +5,12 @@ $breakpoint = "medium"; 				// Adjust the breakpoint of the title-bar by adjusti
 ?>
 
 <!-- Contain navigation to the grid -->
+
 <!--
 <div class="row">
     <div class="small-12 columns">
 -->
+
 
 		<div class="title-bar" data-responsive-toggle="title-bar-menu" data-hide-for="<?php echo $breakpoint ?>">
 			<button class="menu-icon" type="button" data-toggle></button>
@@ -28,6 +30,7 @@ $breakpoint = "medium"; 				// Adjust the breakpoint of the title-bar by adjusti
 		</div>
 
 <!-- Contain navigation to the grid -->
+
 <!--
     </div>
 </div>
