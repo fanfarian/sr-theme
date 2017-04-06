@@ -19,7 +19,7 @@ function sr_enqueue_scripts_styles()
 	wp_enqueue_script( 'jquery-migrate', get_template_directory_uri() . '/assets/js/jquery-migrate-3.0.0.min.js', array( ), '3.0.0', true );
 	
 	// Adding Foundation scripts file in the footer
-	wp_enqueue_script( 'foundation', get_template_directory_uri() . '/assets/js/foundation.min.js', array( 'jquery', 'what-input' ), '6.3.0', true );			// Foundation init + js
+	wp_enqueue_script( 'foundation', get_template_directory_uri() . '/assets/js/foundation.min.js', array( 'jquery', 'what-input' ), '6.3.1', true );			// Foundation init + js
 	
 	
 	// enqueue comment js
