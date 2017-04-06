@@ -2,16 +2,19 @@
 # Changelog
 
 
-## 1.1.10 (2017-03-31)
+## 1.1.10 (2017-04-06)
 * Test: Freemius Theme Analytics
 * Language updates
-
-
+* Bower Updates
+	- fontfaceobserver 2.0.9
+	- foundation-sites 6.3.1
+	- what-input 4.0.6
+	- jQuery 3.2.1
+	
 ## 1.1.9 (2017-02-09)
 * Updated Off-Canvas templates for Foundation 6.3
-* jQuery 3.1.1
 * Compress some .png files
-
+* jQuery 3.1.1
 
 ## 1.1.8 (2017-01-20)
 * Changed update functionality to YahnisElsts PUC (https://github.com/YahnisElsts/plugin-update-checker)
@@ -28,7 +31,7 @@
 * word-wrap: break-word; for headlines, p and .main-content
 
 ## 1.1.6 (2017-01-10)
-* Plugin Updates
+* Bower Updates
 	- fontfaceobserver 2.0.7
 	- foundation-sites 6.3.0
 	- jQuery 2.2.4
