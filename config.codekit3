@@ -7,7 +7,7 @@
 		"uuidString": "21EFF807-0F4E-44B9-96CB-4638B542B03A"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/.bowerrc": {
 		"ft": 8192,
@@ -80,11 +80,12 @@
 	"\/assets\/images\/login-logo.png": {
 		"ft": 32768,
 		"iS": 44146,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/login-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/js\/foundation.js": {
@@ -845,11 +846,12 @@
 	"\/favicon.png": {
 		"ft": 32768,
 		"iS": 13807,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/favicon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/footer.php": {
@@ -951,21 +953,23 @@
 	"\/freemius\/assets\/img\/plugin-icon.png": {
 		"ft": 32768,
 		"iS": 9380,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/freemius\/assets\/img\/plugin-icon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/freemius\/assets\/img\/theme-icon.png": {
 		"ft": 32768,
 		"iS": 11237,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/freemius\/assets\/img\/theme-icon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/freemius\/assets\/js\/nojquery.ba-postmessage.js": {
@@ -1546,6 +1550,12 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/freemius\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/freemius\/README.html",
+		"oF": 0
 		},
 	"\/freemius\/README.md": {
 		"cS": 0,
@@ -6452,11 +6462,12 @@
 	"\/screenshot.png": {
 		"ft": 32768,
 		"iS": 70603,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/screenshot.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/search.php": {
@@ -6526,21 +6537,23 @@
 	"\/tile-wide.png": {
 		"ft": 32768,
 		"iS": 43309,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/tile-wide.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/tile.png": {
 		"ft": 32768,
 		"iS": 44523,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/tile.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		}
 	},
@@ -7520,6 +7533,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -8221,10 +8238,6 @@
 			}
 		},
 	"jsLintFlags2": {
-		"ass": {
-			"active": false,
-			"flagValue": -1
-			},
 		"bitwise": {
 			"active": 0,
 			"flagValue": -1
@@ -8233,28 +8246,12 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"closure": {
-			"active": false,
-			"flagValue": -1
-			},
-		"continue": {
-			"active": false,
-			"flagValue": -1
-			},
 		"couch": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"debug": {
-			"active": false,
-			"flagValue": -1
-			},
 		"devel": {
 			"active": 0,
-			"flagValue": -1
-			},
-		"eqeq": {
-			"active": false,
 			"flagValue": -1
 			},
 		"es6": {
@@ -8265,80 +8262,20 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"evil": {
-			"active": false,
-			"flagValue": -1
-			},
 		"for": {
 			"active": 0,
 			"flagValue": -1
-			},
-		"forin": {
-			"active": false,
-			"flagValue": -1
-			},
-		"indent": {
-			"active": false,
-			"flagValue": 4
 			},
 		"maxlen": {
 			"active": 0,
 			"flagValue": 150
 			},
-		"newcap": {
-			"active": false,
-			"flagValue": -1
-			},
 		"node": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"nomen": {
-			"active": false,
-			"flagValue": -1
-			},
-		"plusplus": {
-			"active": false,
-			"flagValue": -1
-			},
-		"properties": {
-			"active": false,
-			"flagValue": -1
-			},
-		"regexp": {
-			"active": false,
-			"flagValue": -1
-			},
-		"rhino": {
-			"active": false,
-			"flagValue": -1
-			},
-		"sloppy": {
-			"active": false,
-			"flagValue": -1
-			},
-		"stupid": {
-			"active": false,
-			"flagValue": -1
-			},
-		"sub": {
-			"active": false,
-			"flagValue": -1
-			},
 		"this": {
 			"active": 0,
-			"flagValue": -1
-			},
-		"todo": {
-			"active": false,
-			"flagValue": -1
-			},
-		"unparam": {
-			"active": false,
-			"flagValue": -1
-			},
-		"vars": {
-			"active": false,
 			"flagValue": -1
 			},
 		"white": {
@@ -8424,14 +8361,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -8494,7 +8423,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {
