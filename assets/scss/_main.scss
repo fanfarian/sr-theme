@@ -264,7 +264,12 @@ article.type-post {
 // Add Foundation video styling to css created via the 'sr-theme-functionality' plugin
 .embed-container {
 	@include responsive-embed(widescreen);
+	
+	&.embed-container__twitter {
+		padding-bottom: 30%;
+	}
 }
+
 
 // Add Foundation styling to password protect button
 .post-password-form input[type="submit"] {
