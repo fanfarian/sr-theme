@@ -1,0 +1,53 @@
+/* ------------------------------------------------------------------------- *
+ *  Post Formats
+/* ------------------------------------------------------------------------- */
+
+
+//  post format : aside
+/* ------------------------------------ */
+.single .format-aside .entry-title,
+.archive .format-aside .entry-title { display: none; }
+.format-aside .entry-content { 
+	@include callout( $dark-gray );	
+}
+
+//  post format : status
+/* ------------------------------------ */
+.single .format-status .entry-title,
+.archive .format-status .entry-title, { display: none; }
+.format-status .entry-content { 
+	@include callout( $dark-gray );	
+}
+
+
+//  post format : chat
+/* ------------------------------------ */
+.format-chat .post-format p { }
+
+
+//  post format : link
+/* ------------------------------------ */
+.format-link .entry-content p { font-size: 1.375rem; font-weight: 400; line-height: $header-lineheight; font-style: italic; }
+
+
+//  post format : image
+/* ------------------------------------ */
+.format-image .size-full { display: none; }
+
+
+//  post format : quote
+/* ------------------------------------ */
+.format-quote .post-format blockquote { 
+	font-size: 100%;
+}
+
+
+//  post format : video
+/* ------------------------------------ */
+.format-video { }
+
+
+//  post format : audio
+/* ------------------------------------ */
+.format-audio { }
+

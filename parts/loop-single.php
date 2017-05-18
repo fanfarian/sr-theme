@@ -11,7 +11,19 @@
 	</section> <!-- end article section -->
 						
 	<footer class="article-footer">
-		<p class="tags"><?php the_tags('<span class="tags-title">' . __('Tags:', 'sr-theme') . '</span> ', ', ', ''); ?></p>	
+	    <?php wp_link_pages( array(
+			'before'			=> '<div class="page-navigation"><ul class="menu"><li class="menu-text">' . __( 'Pages:', 'sr-theme' ) . '</li>',
+			'after'			=> '</ul></div>',
+			'link_before' 	=> '<span class="menu-item">',
+			'link_after'  	=> '</span>',
+			'pagelink'    	=> __( 'Page', 'sr-theme' ) . ' %',
+			) );
+		?>
+		
+		<?php if( has_tag() ) : ?>
+			<p class="tags"><?php the_tags('<span class="tags-title">' . __('Tags:', 'sr-theme') . '</span> ', ', ', ''); ?></p>	
+		<?php endif; ?>
+
 	</footer> <!-- end article footer -->
 									
 	<?php comments_template(); ?>	

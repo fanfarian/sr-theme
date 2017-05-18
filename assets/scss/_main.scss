@@ -75,6 +75,9 @@ p:last-child {
 	margin-bottom: 0;
 }
 
+.button{
+	font-family: inherit;
+}
 
 /*********************
 HEADER STYLES
@@ -147,11 +150,21 @@ article.type-post {
     padding: 1rem 0;
 }
 
-.wp-sticky{
-	.article-footer{
-		margin: 1.5rem 0 2rem 0;
+.article-header{
+	margin-bottom: 2rem;
+}
+
+.article-footer{
+	margin-top: 2rem;
+	
+	.tags{
 		border-top: 1px solid $medium-gray;
+		padding-top: 0.5rem;	
 	}
+}
+
+.wp-sticky{
+	
 }
 
 
@@ -212,7 +225,7 @@ article.type-post {
 	.wp-post-image{
 		margin: 1rem 0;
 	}
-
+	
 } 
 
 .wp-caption {
@@ -251,7 +264,12 @@ article.type-post {
 // Add Foundation video styling to css created via the 'sr-theme-functionality' plugin
 .embed-container {
 	@include responsive-embed(widescreen);
+	
+	&.embed-container__twitter {
+		padding-bottom: 30%;
+	}
 }
+
 
 // Add Foundation styling to password protect button
 .post-password-form input[type="submit"] {
@@ -268,81 +286,82 @@ IMAGE GALLERY STYLES
 *********************/
 .gallery {
 	margin-top: 1rem;
+
+	.gallery-item {
+		display: inline-block;
+		max-width: 33.33%;
+		padding: 0 1.1400652% 2.2801304%;
+		text-align: center;
+		vertical-align: top;
+		width: 100%;
+		margin: 1rem 0;
+	}
+	
+	.gallery-columns-1 .gallery-item {
+		max-width: 100%;
+	}
+	
+	.gallery-columns-2 .gallery-item {
+		max-width: 50%;
+	}
+	
+	.gallery-columns-4 .gallery-item {
+		max-width: 25%;
+	}
+	
+	.gallery-columns-5 .gallery-item {
+		max-width: 20%;
+	}
+	
+	.gallery-columns-6 .gallery-item {
+		max-width: 16.66%;
+	}
+	
+	.gallery-columns-7 .gallery-item {
+		max-width: 14.28%;
+	}
+	
+	.gallery-columns-8 .gallery-item {
+		max-width: 12.5%;
+	}
+	
+	.gallery-columns-9 .gallery-item {
+		max-width: 11.11%;
+	}
+	
+	.gallery-columns-10 .gallery-item {
+		max-width: 10%;
+	}
+	
+	.gallery-icon img {
+		margin: 0 auto;
+	}
+	
+	// Gallery caption styles
+	.gallery-caption {
+		color: $dark-gray;
+		display: block;
+		font-size: 13px;
+		font-size: 0.8125rem;
+		font-style: italic;
+		line-height: 1.6153846154;
+		padding-top: 0.5384615385em;
+	}
+	
+	.gallery-columns-6 .gallery-caption,
+	.gallery-columns-7 .gallery-caption,
+	.gallery-columns-8 .gallery-caption,
+	.gallery-columns-9 .gallery-caption,
+	.gallery-columns-10 .gallery-caption {
+		display: none;
+	}
+
 }
 
-.gallery-item {
-	display: inline-block;
-	max-width: 33.33%;
-	padding: 0 1.1400652% 2.2801304%;
-	text-align: center;
-	vertical-align: top;
-	width: 100%;
-	margin: 1rem 0;
-}
 
-.gallery-columns-1 .gallery-item {
-	max-width: 100%;
-}
-
-.gallery-columns-2 .gallery-item {
-	max-width: 50%;
-}
-
-.gallery-columns-4 .gallery-item {
-	max-width: 25%;
-}
-
-.gallery-columns-5 .gallery-item {
-	max-width: 20%;
-}
-
-.gallery-columns-6 .gallery-item {
-	max-width: 16.66%;
-}
-
-.gallery-columns-7 .gallery-item {
-	max-width: 14.28%;
-}
-
-.gallery-columns-8 .gallery-item {
-	max-width: 12.5%;
-}
-
-.gallery-columns-9 .gallery-item {
-	max-width: 11.11%;
-}
-
-.gallery-columns-10 .gallery-item {
-	max-width: 10%;
-}
-
-.gallery-icon img {
-	margin: 0 auto;
-}
-
-
-// Gallery caption styles
-.gallery-caption {
-	color: $dark-gray;
-	display: block;
-	font-size: 13px;
-	font-size: 0.8125rem;
-	font-style: italic;
-	line-height: 1.6153846154;
-	padding-top: 0.5384615385em;
-}
-
-.gallery-columns-6 .gallery-caption,
-.gallery-columns-7 .gallery-caption,
-.gallery-columns-8 .gallery-caption,
-.gallery-columns-9 .gallery-caption,
-.gallery-columns-10 .gallery-caption {
-	display: none;
-}
-
-.size-full {}
-.size-large {}
-.size-medium {}
+/*********************
+IMAGE STYLES
+*********************/
 .size-thumbnail {
 	@include thumbnail;
 }
@@ -352,6 +371,35 @@ PAGE NAVI STYLES
 *********************/
 .page-navigation {
 	margin-top: 3rem;
+	
+	.menu{
+		
+		.menu-text{
+			padding-left: 0;
+			padding-right: 0;
+		}
+
+		.menu-item{
+			display: block;
+			padding: 0.7rem 1rem;
+			line-height: 1;
+		}
+		
+		.menu-item,
+		a{
+			display: table-cell;
+		    vertical-align: middle;
+		    outline: 0;
+		    font-size: inherit;
+			
+			.menu-item{
+				display: block;
+			    padding: 0.7rem 1rem;
+			    line-height: 1;
+			}
+		}
+	}
+	
 }
 
 /*********************
@@ -411,7 +459,7 @@ COMMENT STYLES
 	}
 
 	li:not(.depth-1) {
-		margin-left: 10px;
+		margin-left: 8px;
 		margin-top: 0;
 		padding-bottom: 0;
 	}
@@ -430,22 +478,29 @@ COMMENT STYLES
 	}
 	.parent {}
 	.comment {
-		.media-object-section:nth-child(2){
+		.media-object-section.main-section{
 			width: 100%;
 		}
 	}
 	.children {}
-	.pingback {}
+	
 	.bypostauthor {
 		&.callout{
 			@include callout($primary-color);
 		}
 	}
+	
 	.comment-author {}
 	.comment-author-admin {}
 	.thread-alt {}
 	.thread-odd {}
 	.thread-even {}
+	
+	.pingback {
+		.media-object-section.main-section{
+			width: 100%;
+		}
+	}
 
 	// vcard  
 	.vcard {

@@ -124,34 +124,4 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 );
 
 
-/**
- * Freemius Theme analytics
- */
-function sr_theme() {
-    global $sr_theme;
-
-    if ( ! isset( $sr_theme ) ) {
-        // Include Freemius SDK.
-        require_once dirname(__FILE__) . '/freemius/start.php';
-
-        $sr_theme = fs_dynamic_init( array(
-            'id'                  => '930',
-            'slug'                => 'sr-theme',
-            'type'                => 'theme',
-            'public_key'          => 'pk_b015c551aa642aa0af84aef42323d',
-            'is_premium'          => false,
-            'has_addons'          => false,
-            'has_paid_plans'      => false,
-            'is_org_compliant'    => false,
-        ) );
-    }
-
-    return $sr_theme;
-}
-
-// Init Freemius.
-sr_theme();
-// Signal that SDK was initiated.
-do_action( 'sr_theme_loaded' );
-
 ?>

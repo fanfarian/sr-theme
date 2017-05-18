@@ -12,8 +12,6 @@
 		<meta name="viewport" content="initial-scale=1.0, width=device-width">
 		<meta class="foundation-mq">		
 
-		<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
-
 		<?php wp_head(); ?>
 
 	</head>
