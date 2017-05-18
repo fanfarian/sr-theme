@@ -13,6 +13,6 @@
 	</section> <!-- end article section -->
 						
 	<footer class="article-footer">
-    	<p class="tags"><?php the_tags('<span class="tags-title">' . __('Tags:', 'sr-theme') . '</span> ', ', ', ''); ?></p>
+	
 	</footer> <!-- end article footer -->				    						
 </article> <!-- end article -->

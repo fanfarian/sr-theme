@@ -150,11 +150,21 @@ article.type-post {
     padding: 1rem 0;
 }
 
-.wp-sticky{
-	.article-footer{
-		margin: 1.5rem 0 2rem 0;
+.article-header{
+	margin-bottom: 2rem;
+}
+
+.article-footer{
+	margin-top: 2rem;
+	
+	.tags{
 		border-top: 1px solid $medium-gray;
+		padding-top: 0.5rem;	
 	}
+}
+
+.wp-sticky{
+	
 }
 
 
@@ -215,7 +225,7 @@ article.type-post {
 	.wp-post-image{
 		margin: 1rem 0;
 	}
-
+	
 } 
 
 .wp-caption {
@@ -356,6 +366,35 @@ PAGE NAVI STYLES
 *********************/
 .page-navigation {
 	margin-top: 3rem;
+	
+	.menu{
+		
+		.menu-text{
+			padding-left: 0;
+			padding-right: 0;
+		}
+
+		.menu-item{
+			display: block;
+			padding: 0.7rem 1rem;
+			line-height: 1;
+		}
+		
+		.menu-item,
+		a{
+			display: table-cell;
+		    vertical-align: middle;
+		    outline: 0;
+		    font-size: inherit;
+			
+			.menu-item{
+				display: block;
+			    padding: 0.7rem 1rem;
+			    line-height: 1;
+			}
+		}
+	}
+	
 }
 
 /*********************
