@@ -1,6 +1,15 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+## 1.1.11 (2017-05-18)
+* Freemius entfernt
+* Language updates
+* Added Theme Support for Post Formats: ‚aside', 'image', 'video', 'quote', 'link', 'gallery', 'status', 'audio', 'chat' with basic styles
+* Comments styles updated
+* Button font-family as inherit style
+* wp_link_pages added & tag styles updated
+* Twitter embedded styles
+
 
 ## 1.1.10 (2017-03-31)
 * Test: Freemius Theme Analytics

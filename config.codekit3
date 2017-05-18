@@ -735,6 +735,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/assets\/scss\/_post-format.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/css\/_post-format.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/assets\/scss\/_print.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -858,913 +871,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/footer.php",
-		"oF": 0
-		},
-	"\/freemius\/assets\/css\/admin\/account.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/freemius\/assets\/css\/admin\/account-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/freemius\/assets\/css\/admin\/add-ons.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/freemius\/assets\/css\/admin\/add-ons-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/freemius\/assets\/css\/admin\/common.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/freemius\/assets\/css\/admin\/common-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/freemius\/assets\/css\/admin\/connect.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/freemius\/assets\/css\/admin\/connect-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/freemius\/assets\/css\/admin\/deactivation-feedback.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/freemius\/assets\/css\/admin\/deactivation-feedback-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/freemius\/assets\/css\/admin\/debug.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/freemius\/assets\/css\/admin\/debug-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/freemius\/assets\/css\/admin\/dialog-boxes.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/freemius\/assets\/css\/admin\/dialog-boxes-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/freemius\/assets\/css\/admin\/license-activation.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/freemius\/assets\/css\/admin\/license-activation-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/freemius\/assets\/css\/common.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/freemius\/assets\/css\/common-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/freemius\/assets\/img\/plugin-icon.png": {
-		"ft": 32768,
-		"iS": 9380,
-		"oA": 0,
-		"oAP": "\/freemius\/assets\/img\/plugin-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/freemius\/assets\/img\/theme-icon.png": {
-		"ft": 32768,
-		"iS": 11237,
-		"oA": 0,
-		"oAP": "\/freemius\/assets\/img\/theme-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/freemius\/assets\/js\/nojquery.ba-postmessage.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/freemius\/assets\/js\/nojquery.ba-postmessage.min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/freemius\/assets\/js\/nojquery.ba-postmessage.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/freemius\/assets\/js\/nojquery.ba-postmessage.min.min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/freemius\/assets\/js\/postmessage.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/freemius\/assets\/js\/postmessage.min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/freemius\/assets\/scss\/_colors.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/freemius\/assets\/css\/_colors.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/_functions.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/freemius\/assets\/css\/_functions.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/_load.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/freemius\/assets\/css\/_load.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/_mixins.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/freemius\/assets\/css\/_mixins.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/_start.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/freemius\/assets\/css\/_start.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/_vars.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/freemius\/assets\/css\/_vars.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/admin\/_deactivation-feedback.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/freemius\/assets\/scss\/css\/_deactivation-feedback.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/admin\/_license-activation.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/freemius\/assets\/scss\/css\/_license-activation.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/admin\/_license-key-resend.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/freemius\/assets\/scss\/css\/_license-key-resend.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/admin\/_modal-common.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/freemius\/assets\/scss\/css\/_modal-common.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/admin\/account.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "\/freemius\/assets\/scss\/css\/account.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/admin\/add-ons.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "\/freemius\/assets\/scss\/css\/add-ons.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/admin\/common.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "\/freemius\/assets\/scss\/css\/common.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/admin\/connect.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "\/freemius\/assets\/scss\/css\/connect.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/admin\/debug.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "\/freemius\/assets\/scss\/css\/debug.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/assets\/scss\/admin\/dialog-boxes.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "\/freemius\/assets\/scss\/css\/dialog-boxes.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/freemius\/config.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/config.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/class-freemius-abstract.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/class-freemius-abstract.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/class-freemius.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/class-freemius.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/class-fs-api.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/class-fs-api.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/class-fs-logger.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/class-fs-logger.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/class-fs-plugin-updater.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/class-fs-plugin-updater.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/class-fs-security.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/class-fs-security.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/debug\/class-fs-debug-bar-panel.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/debug\/class-fs-debug-bar-panel.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/debug\/debug-bar-start.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/debug\/debug-bar-start.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-billing.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-billing.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-entity.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-entity.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-payment.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-payment.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-plugin-info.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-plugin-info.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-plugin-license.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-plugin-license.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-plugin-plan.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-plugin-plan.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-plugin-tag.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-plugin-tag.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-plugin.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-plugin.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-pricing.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-pricing.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-scope-entity.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-scope-entity.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-site.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-site.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-subscription.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-subscription.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/entities\/class-fs-user.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/entities\/class-fs-user.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/fs-core-functions.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/fs-core-functions.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/fs-essential-functions.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/fs-essential-functions.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/fs-plugin-info-dialog.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/fs-plugin-info-dialog.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/i18n.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/i18n.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/l10n.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/l10n.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/managers\/class-fs-admin-menu-manager.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/managers\/class-fs-admin-menu-manager.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/managers\/class-fs-admin-notice-manager.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/managers\/class-fs-admin-notice-manager.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/managers\/class-fs-cache-manager.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/managers\/class-fs-cache-manager.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/managers\/class-fs-key-value-storage.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/managers\/class-fs-key-value-storage.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/managers\/class-fs-license-manager.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/managers\/class-fs-license-manager.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/managers\/class-fs-option-manager.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/managers\/class-fs-option-manager.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/managers\/class-fs-plan-manager.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/managers\/class-fs-plan-manager.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/managers\/class-fs-plugin-manager.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/managers\/class-fs-plugin-manager.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/sdk\/Exceptions\/ArgumentNotExistException.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/sdk\/Exceptions\/ArgumentNotExistException.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/sdk\/Exceptions\/EmptyArgumentException.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/sdk\/Exceptions\/EmptyArgumentException.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/sdk\/Exceptions\/Exception.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/sdk\/Exceptions\/Exception.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/sdk\/Exceptions\/InvalidArgumentException.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/sdk\/Exceptions\/InvalidArgumentException.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/sdk\/Exceptions\/OAuthException.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/sdk\/Exceptions\/OAuthException.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/sdk\/FreemiusBase.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/sdk\/FreemiusBase.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/sdk\/FreemiusWordPress.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/sdk\/FreemiusWordPress.php",
-		"oF": 0
-		},
-	"\/freemius\/includes\/sdk\/LICENSE.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/sdk\/LICENSE.txt",
-		"oF": 0
-		},
-	"\/freemius\/includes\/supplements\/fs-essential-functions-1.1.7.1.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/includes\/supplements\/fs-essential-functions-1.1.7.1.php",
-		"oF": 0
-		},
-	"\/freemius\/languages\/freemius-da_DK.mo": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/languages\/freemius-da_DK.mo",
-		"oF": 0
-		},
-	"\/freemius\/languages\/freemius-da_DK.po": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/languages\/freemius-da_DK.po",
-		"oF": 0
-		},
-	"\/freemius\/languages\/freemius-en.mo": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/languages\/freemius-en.mo",
-		"oF": 0
-		},
-	"\/freemius\/languages\/freemius-en.po": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/languages\/freemius-en.po",
-		"oF": 0
-		},
-	"\/freemius\/languages\/freemius-he.mo": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/languages\/freemius-he.mo",
-		"oF": 0
-		},
-	"\/freemius\/languages\/freemius-he.po": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/languages\/freemius-he.po",
-		"oF": 0
-		},
-	"\/freemius\/languages\/freemius-it_IT.mo": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/languages\/freemius-it_IT.mo",
-		"oF": 0
-		},
-	"\/freemius\/languages\/freemius-it_IT.po": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/languages\/freemius-it_IT.po",
-		"oF": 0
-		},
-	"\/freemius\/languages\/freemius-ja_JP.mo": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/languages\/freemius-ja_JP.mo",
-		"oF": 0
-		},
-	"\/freemius\/languages\/freemius-ja_JP.po": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/languages\/freemius-ja_JP.po",
-		"oF": 0
-		},
-	"\/freemius\/languages\/freemius.pot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/languages\/freemius.pot",
-		"oF": 0
-		},
-	"\/freemius\/LICENSE.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/LICENSE.txt",
-		"oF": 0
-		},
-	"\/freemius\/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/freemius\/package-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/freemius\/README.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/README.html",
-		"oF": 0
-		},
-	"\/freemius\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/freemius\/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/freemius\/require.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/require.php",
-		"oF": 0
-		},
-	"\/freemius\/start.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/start.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/account.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/account.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/add-ons.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/add-ons.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/add-trial-to-pricing.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/add-trial-to-pricing.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/admin-notice.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/admin-notice.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/all-admin-notice.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/all-admin-notice.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/billing.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/billing.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/checkout.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/checkout.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/connect.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/connect.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/contact.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/contact.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/debug.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/debug.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/debug\/api-calls.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/debug\/api-calls.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/debug\/logger.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/debug\/logger.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/debug\/plugins-themes-sync.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/debug\/plugins-themes-sync.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/debug\/scheduled-crons.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/debug\/scheduled-crons.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/email.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/email.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/firewall-issues-js.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/firewall-issues-js.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/forms\/deactivation\/contact.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/forms\/deactivation\/contact.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/forms\/deactivation\/form.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/forms\/deactivation\/form.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/forms\/deactivation\/retry-skip.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/forms\/deactivation\/retry-skip.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/forms\/license-activation.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/forms\/license-activation.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/forms\/optout.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/forms\/optout.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/forms\/resend-key.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/forms\/resend-key.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/forms\/trial-start.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/forms\/trial-start.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/plugin-icon.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/plugin-icon.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/plugin-info\/description.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/plugin-info\/description.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/plugin-info\/features.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/plugin-info\/features.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/plugin-info\/screenshots.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/plugin-info\/screenshots.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/powered-by.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/powered-by.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/pricing.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/pricing.php",
-		"oF": 0
-		},
-	"\/freemius\/templates\/sticky-admin-notice-js.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/freemius\/templates\/sticky-admin-notice-js.php",
 		"oF": 0
 		},
 	"\/front-page.php": {
@@ -8238,6 +7344,10 @@
 			}
 		},
 	"jsLintFlags2": {
+		"ass": {
+			"active": false,
+			"flagValue": -1
+			},
 		"bitwise": {
 			"active": 0,
 			"flagValue": -1
@@ -8246,12 +7356,28 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"closure": {
+			"active": false,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": false,
+			"flagValue": -1
+			},
 		"couch": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"debug": {
+			"active": false,
+			"flagValue": -1
+			},
 		"devel": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": false,
 			"flagValue": -1
 			},
 		"es6": {
@@ -8262,20 +7388,80 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"evil": {
+			"active": false,
+			"flagValue": -1
+			},
 		"for": {
 			"active": 0,
 			"flagValue": -1
+			},
+		"forin": {
+			"active": false,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": false,
+			"flagValue": 4
 			},
 		"maxlen": {
 			"active": 0,
 			"flagValue": 150
 			},
+		"newcap": {
+			"active": false,
+			"flagValue": -1
+			},
 		"node": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"nomen": {
+			"active": false,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": false,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": false,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": false,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": false,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": false,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": false,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": false,
+			"flagValue": -1
+			},
 		"this": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": false,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": false,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": false,
 			"flagValue": -1
 			},
 		"white": {
