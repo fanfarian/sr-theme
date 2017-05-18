@@ -22,6 +22,13 @@
 		</ol>
 
 		<?php sr_comment_nav(); ?>
+		
+		<hr>
+		
+		<ol class="commentlist">
+			<?php wp_list_comments('type=pings&callback=sr_theme_comments'); ?>
+		</ol>
+
 
 	<?php endif; // Check for have_comments(). ?>
 

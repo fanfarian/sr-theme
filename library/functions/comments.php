@@ -11,7 +11,7 @@ function sr_theme_comments($comment, $args, $depth) {
 			<div class="media-object-section">
 			    <?php echo get_avatar( $comment, 75 ); ?>
 			  </div>
-			<div class="media-object-section">
+			<div class="media-object-section main-section">
 				<article id="comment-<?php comment_ID(); ?>" class="clearfix large-12 columns">
 					<header class="comment-author">
 						<?php

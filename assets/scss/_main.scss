@@ -412,7 +412,7 @@ COMMENT STYLES
 	}
 
 	li:not(.depth-1) {
-		margin-left: 10px;
+		margin-left: 8px;
 		margin-top: 0;
 		padding-bottom: 0;
 	}
@@ -431,22 +431,29 @@ COMMENT STYLES
 	}
 	.parent {}
 	.comment {
-		.media-object-section:nth-child(2){
+		.media-object-section.main-section{
 			width: 100%;
 		}
 	}
 	.children {}
-	.pingback {}
+	
 	.bypostauthor {
 		&.callout{
 			@include callout($primary-color);
 		}
 	}
+	
 	.comment-author {}
 	.comment-author-admin {}
 	.thread-alt {}
 	.thread-odd {}
 	.thread-even {}
+	
+	.pingback {
+		.media-object-section.main-section{
+			width: 100%;
+		}
+	}
 
 	// vcard  
 	.vcard {
