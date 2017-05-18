@@ -65,7 +65,8 @@ CSS file.
 
 
 // Import your custom styles
-@import "main";
+@import "main",
+		"post-format";
 
 // Import your print styles
 @import "print";
