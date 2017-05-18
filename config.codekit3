@@ -92,7 +92,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/js\/foundation.min.js",
+		"oAP": "\/assets\/js\/foundation-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -100,17 +100,17 @@
 	"\/assets\/js\/foundation.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/foundation.min.min.js",
+		"oA": 0,
+		"oAP": "\/assets\/js\/foundation.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/assets\/js\/jquery-migrate-3.0.0.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/js\/jquery-migrate-3.0.0.min.min.js",
+		"oAP": "\/assets\/js\/jquery-migrate-3.0.0.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -711,7 +711,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/assets\/css\/_main.css",
+		"oAP": "\/assets\/scss\/_main.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -724,14 +724,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/assets\/css\/_mixins.css",
+		"oAP": "\/assets\/scss\/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-
 	"\/assets\/scss\/_post-format.scss": {
-
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -739,7 +737,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/assets\/css\/_post-format.css",
+		"oAP": "\/assets\/scss\/_post-format.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -752,7 +750,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/assets\/css\/_print.css",
+		"oAP": "\/assets\/scss\/_print.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -765,7 +763,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/assets\/css\/_settings.css",
+		"oAP": "\/assets\/scss\/_settings.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -784,7 +782,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/assets\/css\/login.css",
+		"oAP": "\/assets\/scss\/login.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -797,7 +795,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/assets\/css\/style.css",
+		"oAP": "\/assets\/scss\/style.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -818,11 +816,11 @@
 		},
 	"\/CHANGELOG.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/CHANGELOG.html",
 		"oF": 0
 		},
-	"\/CHANGELOG.md": 
+	"\/CHANGELOG.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -955,7 +953,7 @@
 		},
 	"\/library\/functions\/enqueue-scripts-styles.php": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/library\/functions\/enqueue-scripts-styles.php",
 		"oF": 0
 		},
@@ -1002,7 +1000,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker\/css\/puc-debug-bar-min.css",
 		"oF": 0,
 		"oS": 0
@@ -1027,7 +1025,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/plugin-update-checker\/js\/debug-bar.min.js",
+		"oAP": "\/library\/plugin-update-checker\/js\/debug-bar-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -1346,7 +1344,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/exports.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/exports-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -1355,7 +1353,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/externs-commonjs.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/externs-commonjs-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -1364,7 +1362,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/externs.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/externs-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -1373,25 +1371,25 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/fontfaceobserver.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/fontfaceobserver-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/fontfaceobserver.standalone.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/fontfaceobserver.standalone.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/fontfaceobserver.standalone-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/Gruntfile.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/Gruntfile.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/Gruntfile-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -1432,7 +1430,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/src\/descriptors.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/src\/descriptors-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -1441,16 +1439,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/src\/observer.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/src\/observer-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/src\/ruler.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/src\/ruler.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/src\/ruler-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -1466,7 +1464,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/assets\/late-min.css",
 		"oF": 0,
 		"oS": 0
@@ -1511,7 +1509,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/deps.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/deps-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -1526,16 +1524,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/observer-test.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/observer-test-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/test\/ruler-test.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/ruler-test.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/ruler-test-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -1544,7 +1542,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/fontfaceobserver\/vendor\/google\/base.min.js",
+		"oAP": "\/library\/vendor\/fontfaceobserver\/vendor\/google\/base-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -1625,7 +1623,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/normalize-scss\/css\/_normalize.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/normalize-scss\/sass\/_normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1638,7 +1636,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/normalize-scss\/sass\/css\/_import-now.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/normalize-scss\/sass\/normalize\/_import-now.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1651,7 +1649,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/normalize-scss\/sass\/css\/_normalize-mixin.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/normalize-scss\/sass\/normalize\/_normalize-mixin.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1664,7 +1662,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/normalize-scss\/sass\/css\/_variables.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/normalize-scss\/sass\/normalize\/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1677,7 +1675,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/normalize-scss\/sass\/css\/_vertical-rhythm.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/normalize-scss\/sass\/normalize\/_vertical-rhythm.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1690,7 +1688,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/css\/_purge.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_purge.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1703,7 +1701,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/css\/_remove.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_remove.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1716,7 +1714,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/css\/_replace.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_replace.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1729,7 +1727,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/css\/_to-list.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_to-list.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1742,7 +1740,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/css\/_missing-dependencies.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/helpers\/_missing-dependencies.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1755,7 +1753,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/css\/_true.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/helpers\/_true.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1768,7 +1766,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/css\/foundation-flex.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/assets\/foundation-flex.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1781,7 +1779,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/css\/foundation-rtl.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/assets\/foundation-rtl.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1794,7 +1792,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/css\/foundation.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/assets\/foundation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1862,61 +1860,61 @@
 		"oF": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/css\/foundation-flex.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/library\/vendor\/foundation-sites\/dist\/css\/foundation-flex-min.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/css\/foundation-flex.min.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/library\/vendor\/foundation-sites\/dist\/css\/foundation-flex.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/css\/foundation-rtl.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/library\/vendor\/foundation-sites\/dist\/css\/foundation-rtl-min.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/css\/foundation-rtl.min.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/library\/vendor\/foundation-sites\/dist\/css\/foundation-rtl.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/css\/foundation.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/library\/vendor\/foundation-sites\/dist\/css\/foundation-min.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/css\/foundation.min.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/library\/vendor\/foundation-sites\/dist\/css\/foundation.min-min.css",
 		"oF": 0,
 		"oS": 0
@@ -1928,10 +1926,10 @@
 		"ma": 0,
 		"mi": 0,
 		"moR": 0,
-		"moT": 0,
+		"moT": 2,
 		"nIA": 0,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/js\/foundation.d.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/foundation.d.js",
 		"oF": 0,
 		"pCE": 0,
 		"rC": 0,
@@ -1941,53 +1939,53 @@
 	"\/library\/vendor\/foundation-sites\/dist\/js\/foundation.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/foundation.min.js",
+		"oA": 0,
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/foundation-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/foundation.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/foundation.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/foundation.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.abide.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.abide.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.abide-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.abide.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.abide.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.abide.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.accordion-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -1996,16 +1994,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2014,52 +2012,52 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.core.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.core-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.core.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.core.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.core.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2068,34 +2066,34 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2104,34 +2102,34 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.interchange.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.interchange-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.interchange.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.interchange.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.interchange.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.magellan-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2140,34 +2138,34 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.orbit-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2176,16 +2174,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2194,34 +2192,34 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.reveal-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2230,16 +2228,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.slider.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.slider-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.slider.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.slider.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.slider.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2248,16 +2246,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.sticky-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2266,34 +2264,34 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.tabs.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.tabs-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.tabs.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.tabs.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.tabs.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.toggler-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2302,16 +2300,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2320,7 +2318,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.box.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.box-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2329,7 +2327,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.box.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.box.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2338,7 +2336,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2347,7 +2345,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2356,7 +2354,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.mediaQuery.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.mediaQuery-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2365,7 +2363,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.mediaQuery.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.mediaQuery.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2374,7 +2372,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.motion.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.motion-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2383,7 +2381,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.motion.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.motion.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2392,7 +2390,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.nest.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.nest-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2401,7 +2399,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.nest.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.nest.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2410,25 +2408,25 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.timerAndImageLoader.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.timerAndImageLoader-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.timerAndImageLoader.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.timerAndImageLoader.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.timerAndImageLoader.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2437,7 +2435,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2446,7 +2444,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2455,7 +2453,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2464,7 +2462,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.zf.responsiveAccordionTabs.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.zf.responsiveAccordionTabs-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2473,7 +2471,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.zf.responsiveAccordionTabs.min.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/plugins\/foundation.zf.responsiveAccordionTabs.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2488,187 +2486,187 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.abide.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.abide-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.accordion.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.accordion.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.accordion-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.accordionMenu.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.accordionMenu.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.accordionMenu-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.core.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.core.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.core-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.drilldown.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.drilldown.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.drilldown-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.dropdown.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.dropdown.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.dropdown-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.dropdownMenu.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.dropdownMenu.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.dropdownMenu-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.equalizer.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.equalizer.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.equalizer-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.interchange.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.interchange.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.interchange-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.magellan.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.magellan.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.magellan-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.offcanvas.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.offcanvas.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.offcanvas-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.orbit.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.orbit.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.orbit-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.responsiveMenu.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.responsiveMenu.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.responsiveMenu-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.responsiveToggle.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.responsiveToggle.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.responsiveToggle-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.reveal.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.reveal.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.reveal-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.slider.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.slider.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.slider-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.sticky.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.sticky.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.sticky-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.tabs.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.tabs.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.tabs-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.toggler.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.toggler.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.toggler-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.tooltip.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.tooltip.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.tooltip-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.util.box.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.box.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.box-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2677,7 +2675,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.keyboard.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.keyboard-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2686,7 +2684,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.mediaQuery.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.mediaQuery-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2695,7 +2693,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.motion.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.motion-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2704,7 +2702,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.nest.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.nest-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2713,16 +2711,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.timerAndImageLoader.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.timerAndImageLoader-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.util.touch.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.touch.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.touch-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2731,16 +2729,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.triggers.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.util.triggers-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/js\/foundation.zf.responsiveAccordionTabs.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.zf.responsiveAccordionTabs.min.js",
+		"oAP": "\/library\/vendor\/foundation-sites\/js\/foundation.zf.responsiveAccordionTabs-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2777,7 +2775,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/css\/_global.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/_global.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2790,7 +2788,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_accordion-menu.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_accordion-menu.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2803,7 +2801,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_accordion.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_accordion.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2816,7 +2814,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_badge.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_badge.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2829,7 +2827,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_breadcrumbs.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_breadcrumbs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2842,7 +2840,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_button-group.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_button-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2855,7 +2853,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_button.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_button.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2868,7 +2866,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_callout.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_callout.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2881,7 +2879,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_card.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_card.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2894,7 +2892,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_close-button.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_close-button.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2907,7 +2905,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_drilldown.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_drilldown.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2920,7 +2918,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_dropdown-menu.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_dropdown-menu.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2933,7 +2931,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_dropdown.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_dropdown.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2946,7 +2944,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_flex-video.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_flex-video.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2959,7 +2957,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_flex.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_flex.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2972,7 +2970,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_float.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_float.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2985,7 +2983,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_label.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_label.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2998,7 +2996,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_media-object.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_media-object.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3011,7 +3009,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_menu-icon.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_menu-icon.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3024,7 +3022,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_menu.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_menu.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3037,7 +3035,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_off-canvas.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_off-canvas.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3050,7 +3048,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_orbit.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_orbit.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3063,7 +3061,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_pagination.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_pagination.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3076,7 +3074,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_progress-bar.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_progress-bar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3089,7 +3087,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_responsive-embed.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_responsive-embed.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3102,7 +3100,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_reveal.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_reveal.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3115,7 +3113,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_slider.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_slider.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3128,7 +3126,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_sticky.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_sticky.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3141,7 +3139,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_switch.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_switch.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3154,7 +3152,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_table.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_table.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3167,7 +3165,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_tabs.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_tabs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3180,7 +3178,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_thumbnail.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_thumbnail.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3193,7 +3191,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_title-bar.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_title-bar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3206,7 +3204,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_tooltip.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_tooltip.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3219,7 +3217,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_top-bar.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_top-bar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3232,7 +3230,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_visibility.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/components\/_visibility.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3245,7 +3243,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_checkbox.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/forms\/_checkbox.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3258,7 +3256,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_error.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/forms\/_error.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3271,7 +3269,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_fieldset.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/forms\/_fieldset.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3284,7 +3282,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_forms.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/forms\/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3297,7 +3295,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_help-text.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/forms\/_help-text.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3310,7 +3308,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_input-group.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/forms\/_input-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3323,7 +3321,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_label.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/forms\/_label.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3336,7 +3334,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_meter.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/forms\/_meter.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3349,7 +3347,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_progress.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/forms\/_progress.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3362,7 +3360,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_range.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/forms\/_range.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3375,7 +3373,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_select.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/forms\/_select.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3388,7 +3386,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_text.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/forms\/_text.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3401,7 +3399,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/css\/foundation.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/foundation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3414,7 +3412,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_classes.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/grid\/_classes.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3427,7 +3425,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_column.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/grid\/_column.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3440,7 +3438,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_flex-grid.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/grid\/_flex-grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3453,7 +3451,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_grid.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/grid\/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3466,7 +3464,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_gutter.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/grid\/_gutter.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3479,7 +3477,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_layout.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/grid\/_layout.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3492,7 +3490,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_position.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/grid\/_position.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3505,7 +3503,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_row.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/grid\/_row.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3518,7 +3516,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_size.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/grid\/_size.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3531,7 +3529,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_settings.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/settings\/_settings.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3544,7 +3542,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_alignment.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/typography\/_alignment.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3557,7 +3555,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_base.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/typography\/_base.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3570,7 +3568,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_helpers.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/typography\/_helpers.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3583,7 +3581,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_print.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/typography\/_print.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3596,7 +3594,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_typography.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/typography\/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3609,7 +3607,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_breakpoint.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/util\/_breakpoint.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3622,7 +3620,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_color.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/util\/_color.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3635,7 +3633,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_direction.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/util\/_direction.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3648,7 +3646,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_flex.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/util\/_flex.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3661,7 +3659,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_math.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/util\/_math.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3674,7 +3672,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_mixins.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/util\/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3687,7 +3685,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_selector.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/util\/_selector.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3700,7 +3698,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_typography.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/util\/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3713,7 +3711,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_unit.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/util\/_unit.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3726,7 +3724,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_util.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/util\/_util.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3739,7 +3737,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/foundation-sites\/scss\/css\/_value.css",
+		"oAP": "\/library\/vendor\/foundation-sites\/scss\/util\/_value.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3770,27 +3768,27 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/dist\/core.min.js",
+		"oAP": "\/library\/vendor\/jquery\/dist\/core-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/dist\/jquery.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/dist\/jquery.min.js",
+		"oAP": "\/library\/vendor\/jquery\/dist\/jquery-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/dist\/jquery.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/dist\/jquery.min.min.js",
+		"oAP": "\/library\/vendor\/jquery\/dist\/jquery.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/dist\/jquery.min.map": {
@@ -3803,18 +3801,18 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/dist\/jquery.slim.min.js",
+		"oAP": "\/library\/vendor\/jquery\/dist\/jquery.slim-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/dist\/jquery.slim.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/dist\/jquery.slim.min.min.js",
+		"oAP": "\/library\/vendor\/jquery\/dist\/jquery.slim.min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/dist\/jquery.slim.min.map": {
@@ -3827,7 +3825,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/external\/sizzle\/dist\/sizzle.min.js",
+		"oAP": "\/library\/vendor\/jquery\/external\/sizzle\/dist\/sizzle-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3836,7 +3834,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/external\/sizzle\/dist\/sizzle.min.min.js",
+		"oAP": "\/library\/vendor\/jquery\/external\/sizzle\/dist\/sizzle.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3889,7 +3887,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/ajax.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/ajax-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3898,7 +3896,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/jsonp.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/jsonp-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3907,7 +3905,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/load.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/load-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3916,7 +3914,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/parseXML.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/parseXML-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3925,7 +3923,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/script.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/script-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3934,7 +3932,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/var\/location.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/var\/location-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3943,7 +3941,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/var\/nonce.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/var\/nonce-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3952,7 +3950,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/var\/rquery.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/var\/rquery-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3961,7 +3959,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/xhr.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/ajax\/xhr-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3970,7 +3968,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/attributes.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/attributes-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3979,16 +3977,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/attributes\/attr.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/attributes\/attr-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/attributes\/classes.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/attributes\/classes.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/attributes\/classes-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3997,7 +3995,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/attributes\/prop.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/attributes\/prop-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4006,7 +4004,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/attributes\/support.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/attributes\/support-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4015,34 +4013,34 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/attributes\/val.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/attributes\/val-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/callbacks.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/callbacks.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/callbacks-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/core.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/core.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/core-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/core\/access.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/core\/access.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/access-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4051,7 +4049,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/core\/DOMEval.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/DOMEval-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4060,25 +4058,25 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/core\/init.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/init-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/core\/nodeName.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/core\/nodeName.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/nodeName-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/core\/parseHTML.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/core\/parseHTML.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/parseHTML-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4087,25 +4085,25 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/core\/ready-no-deferred.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/ready-no-deferred-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/core\/ready.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/core\/ready.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/ready-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/core\/readyException.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/core\/readyException.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/readyException-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4114,7 +4112,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/core\/stripAndCollapse.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/stripAndCollapse-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4123,7 +4121,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/core\/support.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/support-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4132,7 +4130,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/core\/var\/rsingleTag.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/var\/rsingleTag-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4141,16 +4139,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/css\/addGetHookIf.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/addGetHookIf.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/addGetHookIf-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4159,7 +4157,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/adjustCSS.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/adjustCSS-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4168,16 +4166,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/curCSS.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/curCSS-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/css\/hiddenVisibleSelectors.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/hiddenVisibleSelectors.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/hiddenVisibleSelectors-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4186,7 +4184,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/showHide.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/showHide-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4195,7 +4193,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/support.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/support-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4204,7 +4202,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/cssExpand.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/cssExpand-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4213,7 +4211,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/getStyles.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/getStyles-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4222,7 +4220,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/isHiddenWithinTree.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/isHiddenWithinTree-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4231,7 +4229,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/rmargin.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/rmargin-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4240,7 +4238,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/rnumnonpx.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/rnumnonpx-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4249,7 +4247,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/swap.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/swap-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4258,7 +4256,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/data.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/data-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4267,16 +4265,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/data\/Data.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/data\/Data-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/data\/var\/acceptData.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/data\/var\/acceptData.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/data\/var\/acceptData-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4285,7 +4283,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/data\/var\/dataPriv.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/data\/var\/dataPriv-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4294,7 +4292,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/data\/var\/dataUser.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/data\/var\/dataUser-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4303,16 +4301,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/deferred.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/deferred-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/deferred\/exceptionHook.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/deferred\/exceptionHook.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/deferred\/exceptionHook-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4321,16 +4319,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/deprecated.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/deprecated-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/dimensions.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/dimensions.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/dimensions-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4339,16 +4337,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/effects.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/effects-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/effects\/animatedSelector.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/effects\/animatedSelector.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/effects\/animatedSelector-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4357,7 +4355,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/effects\/Tween.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/effects\/Tween-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4366,16 +4364,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/event.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/event-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/event\/ajax.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/event\/ajax.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/event\/ajax-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4384,7 +4382,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/event\/alias.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/event\/alias-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4393,7 +4391,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/event\/focusin.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/event\/focusin-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4402,7 +4400,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/event\/support.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/event\/support-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4411,7 +4409,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/event\/trigger.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/event\/trigger-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4420,7 +4418,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/exports\/amd.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/exports\/amd-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4429,7 +4427,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/exports\/global.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/exports\/global-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4438,7 +4436,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/jquery.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/jquery-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4447,16 +4445,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/manipulation.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/manipulation-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/manipulation\/_evalUrl.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/_evalUrl.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/_evalUrl-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4465,7 +4463,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/buildFragment.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/buildFragment-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4474,16 +4472,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/getAll.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/getAll-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/manipulation\/setGlobalEval.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/setGlobalEval.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/setGlobalEval-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4492,7 +4490,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/support.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/support-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4501,7 +4499,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/var\/rcheckableType.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/var\/rcheckableType-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4510,7 +4508,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/var\/rscriptType.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/var\/rscriptType-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4519,7 +4517,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/var\/rtagName.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/var\/rtagName-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4528,7 +4526,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/wrapMap.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/manipulation\/wrapMap-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4537,25 +4535,25 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/offset.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/offset-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/queue.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/queue.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/queue-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/queue\/delay.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/queue\/delay.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/queue\/delay-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4564,7 +4562,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/selector-native.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/selector-native-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4573,7 +4571,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/selector-sizzle.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/selector-sizzle-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4582,7 +4580,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/selector.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/selector-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4591,25 +4589,25 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/serialize.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/serialize-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/traversing.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/traversing.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/traversing-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/src\/traversing\/findFilter.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/traversing\/findFilter.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/traversing\/findFilter-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4618,7 +4616,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/traversing\/var\/dir.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/traversing\/var\/dir-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4627,7 +4625,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/traversing\/var\/rneedsContext.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/traversing\/var\/rneedsContext-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4636,7 +4634,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/traversing\/var\/siblings.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/traversing\/var\/siblings-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4645,7 +4643,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/arr.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/arr-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4654,7 +4652,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/class2type.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/class2type-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4663,7 +4661,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/concat.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/concat-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4672,7 +4670,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/document.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/document-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4681,7 +4679,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/documentElement.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/documentElement-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4690,7 +4688,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/fnToString.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/fnToString-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4699,7 +4697,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/getProto.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/getProto-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4708,7 +4706,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/hasOwn.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/hasOwn-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4717,7 +4715,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/indexOf.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/indexOf-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4726,7 +4724,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/ObjectFunctionString.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/ObjectFunctionString-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4735,7 +4733,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/pnum.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/pnum-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4744,7 +4742,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/push.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/push-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4753,7 +4751,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/rcssNum.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/rcssNum-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4762,7 +4760,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/rnothtmlwhite.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/rnothtmlwhite-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4771,7 +4769,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/slice.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/slice-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4780,7 +4778,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/support.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/support-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4789,7 +4787,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/var\/toString.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/toString-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4798,7 +4796,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/wrap.min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/wrap-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4832,7 +4830,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/library\/vendor\/motion-ui\/dist\/motion-ui-min.css",
 		"oF": 0,
 		"oS": 0
@@ -4841,7 +4839,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/motion-ui\/dist\/motion-ui.min.js",
+		"oAP": "\/library\/vendor\/motion-ui\/dist\/motion-ui-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -4851,7 +4849,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/library\/vendor\/motion-ui\/dist\/motion-ui.min-min.css",
 		"oF": 0,
 		"oS": 0
@@ -4860,7 +4858,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/motion-ui\/dist\/motion-ui.min.min.js",
+		"oAP": "\/library\/vendor\/motion-ui\/dist\/motion-ui.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5013,7 +5011,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/motion-ui\/gulpfile.min.js",
+		"oAP": "\/library\/vendor\/motion-ui\/gulpfile-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5022,7 +5020,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/motion-ui\/lib\/handlebars.min.js",
+		"oAP": "\/library\/vendor\/motion-ui\/lib\/handlebars-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5037,7 +5035,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/motion-ui\/motion-ui.min.js",
+		"oAP": "\/library\/vendor\/motion-ui\/motion-ui-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5050,7 +5048,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/css\/motion-ui.css",
+		"oAP": "\/library\/vendor\/motion-ui\/motion-ui.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5089,7 +5087,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/css\/_classes.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/_classes.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5102,7 +5100,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/css\/_settings.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/_settings.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5115,7 +5113,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_fade.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/effects\/_fade.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5128,7 +5126,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_hinge.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/effects\/_hinge.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5141,7 +5139,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_shake.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/effects\/_shake.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5154,7 +5152,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_slide.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/effects\/_slide.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5167,7 +5165,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_spin.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/effects\/_spin.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5180,7 +5178,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_wiggle.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/effects\/_wiggle.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5193,7 +5191,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_zoom.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/effects\/_zoom.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5206,7 +5204,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/css\/motion-ui.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/motion-ui.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5219,7 +5217,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_fade.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/transitions\/_fade.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5232,7 +5230,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_hinge.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/transitions\/_hinge.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5245,7 +5243,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_slide.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/transitions\/_slide.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5258,7 +5256,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_spin.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/transitions\/_spin.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5271,7 +5269,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_zoom.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/transitions\/_zoom.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5284,7 +5282,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_animation.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/util\/_animation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5297,7 +5295,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_args.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/util\/_args.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5310,7 +5308,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_keyframe.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/util\/_keyframe.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5323,7 +5321,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_selector.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/util\/_selector.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5336,7 +5334,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_series.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/util\/_series.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5349,7 +5347,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_transition.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/util\/_transition.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5362,7 +5360,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/library\/vendor\/motion-ui\/src\/css\/_unit.css",
+		"oAP": "\/library\/vendor\/motion-ui\/src\/util\/_unit.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5387,7 +5385,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/what-input\/dist\/lte-IE8.min.js",
+		"oAP": "\/library\/vendor\/what-input\/dist\/lte-IE8-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5396,7 +5394,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/what-input\/dist\/what-input.min.js",
+		"oAP": "\/library\/vendor\/what-input\/dist\/what-input-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5405,7 +5403,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/what-input\/dist\/what-input.min.min.js",
+		"oAP": "\/library\/vendor\/what-input\/dist\/what-input.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5414,7 +5412,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/what-input\/Gulpfile.min.js",
+		"oAP": "\/library\/vendor\/what-input\/Gulpfile-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5461,7 +5459,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/what-input\/src\/polyfills\/ie8\/EventListener.min.js",
+		"oAP": "\/library\/vendor\/what-input\/src\/polyfills\/ie8\/EventListener-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5470,7 +5468,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/what-input\/src\/polyfills\/ie8\/indexOf.min.js",
+		"oAP": "\/library\/vendor\/what-input\/src\/polyfills\/ie8\/indexOf-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5479,7 +5477,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/what-input\/src\/what-input.min.js",
+		"oAP": "\/library\/vendor\/what-input\/src\/what-input-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5658,7 +5656,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/style-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0
 		},
 	"\/taxonomy-custom_type.php": {
@@ -5705,14 +5703,6 @@
 "hooks": [
 	],
 "manualImportLinks": {
-	"\/assets\/js\/foundation.js": [
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/library\/vendor\/foundation-sites\/dist\/js\/foundation.js",
-			"position": 0,
-			"type": 0
-			}
-		]
 	},
 "projectAttributes": {
 	"creationDate": 504176407,
@@ -5722,10 +5712,10 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 1,
+	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1, ie >= 9, and_chr >= 2.3",
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -6499,8 +6489,8 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 1,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false}"
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -6519,7 +6509,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 0,
+			"active": 1,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -6727,7 +6717,7 @@
 			"optionString": "{'props': false}"
 			},
 		"no-self-compare": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -6755,7 +6745,7 @@
 			"optionString": ""
 			},
 		"no-template-curly-in-string": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -6811,12 +6801,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -6824,18 +6814,18 @@
 			},
 		"no-unused-vars": {
 			"active": 1,
-			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none'}"
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
 			},
 		"no-use-before-define": {
 			"active": 0,
-			"optionString": "{'functions': true, 'classes': true}"
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
 			},
 		"no-useless-call": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -6971,7 +6961,7 @@
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
 			},
 		"require-yield": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -7076,7 +7066,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/10.0.2.48\/",
+	"externalServerAddress": "http:\/\/localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -7412,7 +7402,7 @@
 			"flagValue": -1
 			},
 		"devel": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"eqeq": {
@@ -7521,7 +7511,7 @@
 		"syntaxCheckerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -7529,7 +7519,7 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"outputStyle": 3,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
@@ -7566,14 +7556,14 @@
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.min.js",
+		"autoOutputPathFilenamePattern": "*-min.js",
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
-		"syntaxCheckerStyle": 0,
+		"syntaxCheckerStyle": 1,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {
@@ -7590,8 +7580,8 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
-		"autoOutputPathReplace2": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsLESS": {
@@ -7601,8 +7591,8 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -7667,7 +7657,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
@@ -7695,7 +7685,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"importCSS": 0,
@@ -7719,13 +7709,13 @@
 		"autoOutputPathRelativePath": "\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
 		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
-		"moduleType": 0,
+		"moduleType": 2,
 		"noImplicitAny": 0,
 		"preserveConstEnums": 0,
 		"removeComments": 0,
@@ -7860,7 +7850,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {
