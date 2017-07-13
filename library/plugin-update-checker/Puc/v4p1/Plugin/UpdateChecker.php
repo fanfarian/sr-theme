@@ -1,5 +1,5 @@
 <?php
-if ( !class_exists('Puc_v4_Plugin_UpdateChecker', false) ):
+if ( !class_exists('Puc_v4p1_Plugin_UpdateChecker', false) ):
 
 	/**
 	 * A custom plugin update checker.
@@ -8,7 +8,7 @@ if ( !class_exists('Puc_v4_Plugin_UpdateChecker', false) ):
 	 * @copyright 2016
 	 * @access public
 	 */
-	class Puc_v4_Plugin_UpdateChecker extends Puc_v4_UpdateChecker {
+	class Puc_v4p1_Plugin_UpdateChecker extends Puc_v4p1_UpdateChecker {
 		protected $updateTransient = 'update_plugins';
 		protected $translationType = 'plugin';
 
@@ -64,10 +64,10 @@ if ( !class_exists('Puc_v4_Plugin_UpdateChecker', false) ):
 		 * Create an instance of the scheduler.
 		 *
 		 * @param int $checkPeriod
-		 * @return Puc_v4_Scheduler
+		 * @return Puc_v4p1_Scheduler
 		 */
 		protected function createScheduler($checkPeriod) {
-			$scheduler = new Puc_v4_Scheduler($this, $checkPeriod, array('load-plugins.php'));
+			$scheduler = new Puc_v4p1_Scheduler($this, $checkPeriod, array('load-plugins.php'));
 			register_deactivation_hook($this->pluginFile, array($scheduler, 'removeUpdaterCron'));
 			return $scheduler;
 		}
@@ -99,13 +99,13 @@ if ( !class_exists('Puc_v4_Plugin_UpdateChecker', false) ):
 		 * @uses wp_remote_get()
 		 *
 		 * @param array $queryArgs Additional query arguments to append to the request. Optional.
-		 * @return Puc_v4_Plugin_Info
+		 * @return Puc_v4p1_Plugin_Info
 		 */
 		public function requestInfo($queryArgs = array()) {
-			list($pluginInfo, $result) = $this->requestMetadata('Puc_v4_Plugin_Info', 'request_info', $queryArgs);
+			list($pluginInfo, $result) = $this->requestMetadata('Puc_v4p1_Plugin_Info', 'request_info', $queryArgs);
 
 			if ( $pluginInfo !== null ) {
-				/** @var Puc_v4_Plugin_Info $pluginInfo */
+				/** @var Puc_v4p1_Plugin_Info $pluginInfo */
 				$pluginInfo->filename = $this->pluginFile;
 				$pluginInfo->slug = $this->slug;
 			}
@@ -119,7 +119,7 @@ if ( !class_exists('Puc_v4_Plugin_UpdateChecker', false) ):
 		 *
 		 * @uses PluginUpdateChecker::requestInfo()
 		 *
-		 * @return Puc_v4_Update|null An instance of Plugin_Update, or NULL when no updates are available.
+		 * @return Puc_v4p1_Update|null An instance of Plugin_Update, or NULL when no updates are available.
 		 */
 		public function requestUpdate() {
 			//For the sake of simplicity, this function just calls requestInfo()
@@ -128,7 +128,7 @@ if ( !class_exists('Puc_v4_Plugin_UpdateChecker', false) ):
 			if ( $pluginInfo == null ){
 				return null;
 			}
-			$update = Puc_v4_Plugin_Update::fromPluginInfo($pluginInfo);
+			$update = Puc_v4p1_Plugin_Update::fromPluginInfo($pluginInfo);
 
 			$update = $this->filterUpdateResult($update);
 
@@ -315,12 +315,12 @@ if ( !class_exists('Puc_v4_Plugin_UpdateChecker', false) ):
 		 * Uses cached update data. To retrieve update information straight from
 		 * the metadata URL, call requestUpdate() instead.
 		 *
-		 * @return Puc_v4_Plugin_Update|null
+		 * @return Puc_v4p1_Plugin_Update|null
 		 */
 		public function getUpdate() {
 			$update = parent::getUpdate();
 			if ( isset($update) ) {
-				/** @var Puc_v4_Plugin_Update $update */
+				/** @var Puc_v4p1_Plugin_Update $update */
 				$update->filename = $this->pluginFile;
 			}
 			return $update;
@@ -400,10 +400,11 @@ if ( !class_exists('Puc_v4_Plugin_UpdateChecker', false) ):
 		public function displayManualCheckResult() {
 			if ( isset($_GET['puc_update_check_result'], $_GET['puc_slug']) && ($_GET['puc_slug'] == $this->slug) ) {
 				$status = strval($_GET['puc_update_check_result']);
+				$title  = $this->getPluginTitle();
 				if ( $status == 'no_update' ) {
-					$message = __('This plugin is up to date.', 'plugin-update-checker');
+					$message = sprintf(_x('The %s plugin is up to date.', 'the plugin title', 'plugin-update-checker'), $title);
 				} else if ( $status == 'update_available' ) {
-					$message = __('A new version of this plugin is available.', 'plugin-update-checker');
+					$message = sprintf(_x('A new version of the %s plugin is available.', 'the plugin title', 'plugin-update-checker'), $title);
 				} else {
 					$message = sprintf(__('Unknown update checker status "%s"', 'plugin-update-checker'), htmlentities($status));
 				}
@@ -412,6 +413,20 @@ if ( !class_exists('Puc_v4_Plugin_UpdateChecker', false) ):
 					apply_filters($this->getUniqueName('manual_check_message'), $message, $status)
 				);
 			}
+		}
+
+		/**
+		 * Get the translated plugin title.
+		 *
+		 * @return string
+		 */
+		protected function getPluginTitle() {
+			$title  = '';
+			$header = $this->getPluginHeader();
+			if ( $header && !empty($header['Name']) && isset($header['TextDomain']) ) {
+				$title = translate($header['Name'], $header['TextDomain']);
+			}
+			return $title;
 		}
 
 		/**
@@ -524,7 +539,7 @@ if ( !class_exists('Puc_v4_Plugin_UpdateChecker', false) ):
 		}
 
 		protected function createDebugBarExtension() {
-			return new Puc_v4_DebugBar_PluginExtension($this);
+			return new Puc_v4p1_DebugBar_PluginExtension($this);
 		}
 	}
 
