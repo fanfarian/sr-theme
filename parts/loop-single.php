@@ -6,8 +6,13 @@
     </header> <!-- end article header -->
 					
     <section class="entry-content">
-		<?php the_post_thumbnail('full'); ?>
-		<?php the_content(); ?>
+		<?php 
+		if( has_post_thumbnail() ) :
+			the_post_thumbnail('full');
+		endif;
+		
+		the_content(); 
+		?>
 	</section> <!-- end article section -->
 						
 	<footer class="article-footer">

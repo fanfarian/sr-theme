@@ -12,10 +12,11 @@
 		<div class="large-3 medium-3 columns panel" data-equalizer-watch>
 		
 			<article id="post-<?php the_ID(); ?>" <?php post_class(''); ?> role="article">
-			
+				<?php if( has_post_thumbnail() ): ?> 
 				<section class="featured-image">
 					<a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('full'); ?></a>
 				</section> <!-- end article section -->
+				<?php endif; ?>
 			
 				<header class="article-header">
 					<h3><a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title_attribute(); ?>"><?php the_title(); ?></a></h3>

@@ -7,7 +7,7 @@
 		"uuidString": "21EFF807-0F4E-44B9-96CB-4638B542B03A"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25849",
 "files": {
 	"\/.bowerrc": {
 		"ft": 8192,
@@ -5703,6 +5703,14 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/assets\/js\/foundation.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/library\/vendor\/foundation-sites\/dist\/js\/foundation.js",
+			"position": 0,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
 	"creationDate": 504176407,
@@ -7724,6 +7732,7 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
