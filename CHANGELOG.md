@@ -1,6 +1,15 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+## 1.2.0 (2017-06-13)
+* Small Bugfixes & has_thumbnail() request for loop- files
+* Update YahnisElsts PUC 4.1
+* Bower Updates
+	- fontfaceobserver 2.0.13
+	- foundation-sites 6.4.1
+	- what-input 4.3.1
+
+
 ## 1.1.11 (2017-05-18)
 * Freemius entfernt
 * Language updates
@@ -10,7 +19,6 @@
 * wp_link_pages added & tag styles updated
 * Twitter embedded styles
 
-
 ## 1.1.10 (2017-04-06)
 * Test: Freemius Theme Analytics
 * Language updates
@@ -19,7 +27,7 @@
 	- foundation-sites 6.3.1
 	- what-input 4.0.6
 	- jQuery 3.2.1
-	
+
 ## 1.1.9 (2017-02-09)
 * Updated Off-Canvas templates for Foundation 6.3
 * Compress some .png files
@@ -74,7 +82,6 @@
 * Commit CHANGELOG.md
 * Commit README.md
 * Initial commit
-
 
 ## 1.0.0 - 1.0.3 (2016-03-24)
 * Manual version with small updates
