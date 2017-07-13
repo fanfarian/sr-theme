@@ -84,7 +84,7 @@
     </style>
 
     <!--[if lte IE 8]>
-      <script src="dist/lte-IE8.js"></script>
+      <script src="scripts/lte-IE8.js"></script>
     <![endif]-->
 
   </head>
@@ -146,7 +146,7 @@
 
     </div>
 
-    <script src="dist/what-input.js"></script>
+    <script src="scripts/what-input.js"></script>
 
     <script>
       var links = document.querySelectorAll('a');
@@ -158,6 +158,17 @@
           event.preventDefault();
         });
       }
+
+      var myInputFunction = function(type) {
+        console.log('input: ' + type)
+      };
+
+      var myIntentFunction = function(type) {
+        console.log('intent: ' + type)
+      };
+
+      whatInput.registerOnChange(myInputFunction);
+      whatInput.registerOnChange(myIntentFunction, 'intent');
     </script>
 
   </body>

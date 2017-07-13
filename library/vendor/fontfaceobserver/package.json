@@ -1,6 +1,6 @@
 {
   "name": "fontfaceobserver",
-  "version": "2.0.9",
+  "version": "2.0.13",
   "description": "Detect if web fonts are available",
   "directories": {
     "test": "test"
@@ -49,6 +49,9 @@
     "unexpected": "^10.14.2"
   },
   "scripts": {
+    "preversion": "npm test",
+    "version": "grunt dist && git add fontfaceobserver.js && git add fontfaceobserver.standalone.js",
+    "postversion": "git push && git push --tags && rm -rf build && npm publish",
     "test": "grunt test"
   }
 }
