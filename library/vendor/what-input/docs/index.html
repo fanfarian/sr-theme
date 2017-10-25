@@ -167,8 +167,8 @@
         console.log('intent: ' + type)
       };
 
-      whatInput.registerOnChange(myInputFunction);
-      whatInput.registerOnChange(myIntentFunction, 'intent');
+      whatInput.onChange(myIntentFunction, 'intent');
+      whatInput.onChange(myInputFunction, 'input');
     </script>
 
   </body>

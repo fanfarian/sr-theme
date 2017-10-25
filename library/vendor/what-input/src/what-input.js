@@ -27,15 +27,9 @@ module.exports = (() => {
     93 // Windows menu / right Apple cmd
   ]
 
-  // list of keys for which we change intent even for form inputs
-  const changeIntentMap = [
-    9 // tab
-  ]
-
   // mapping of events to input types
   const inputMap = {
     keydown: 'keyboard',
-    keyup: 'keyboard',
     mousedown: 'mouse',
     mousemove: 'mouse',
     MSPointerDown: 'pointer',
@@ -99,7 +93,6 @@ module.exports = (() => {
     // `pointermove`, `MSPointerMove`, `mousemove` and mouse wheel event binding
     // can only demonstrate potential, but not actual, interaction
     // and are treated separately
-    const options = supportsPassive ? { passive: true } : false
 
     // pointer events (mouse, pen, touch)
     if (window.PointerEvent) {
@@ -115,7 +108,7 @@ module.exports = (() => {
 
       // touch events
       if ('ontouchstart' in window) {
-        doc.addEventListener('touchstart', touchBuffer, options)
+        doc.addEventListener('touchstart', touchBuffer)
         doc.addEventListener('touchend', touchBuffer)
       }
     }
@@ -124,12 +117,11 @@ module.exports = (() => {
     doc.addEventListener(
       detectWheel(),
       setIntent,
-      options
+      supportsPassive ? { passive: true } : false
     )
 
     // keyboard events
     doc.addEventListener('keydown', updateInput)
-    doc.addEventListener('keyup', updateInput)
   }
 
   // checks conditions before updating new input
@@ -143,12 +135,12 @@ module.exports = (() => {
       if (currentInput !== value || currentIntent !== value) {
         let activeElem = document.activeElement
         let activeInput = false
-        let notFormInput =
+
+        if (
           activeElem &&
           activeElem.nodeName &&
           formInputs.indexOf(activeElem.nodeName.toLowerCase()) === -1
-
-        if (notFormInput || changeIntentMap.indexOf(eventKey) !== -1) {
+        ) {
           activeInput = true
         }
 
@@ -228,7 +220,7 @@ module.exports = (() => {
   const fireFunctions = type => {
     for (let i = 0, len = functionList.length; i < len; i++) {
       if (functionList[i].type === type) {
-        functionList[i].fn.call(this, currentIntent)
+        functionList[i].function.call(this, currentIntent)
       }
     }
   }
@@ -257,19 +249,12 @@ module.exports = (() => {
     } else {
       // Webkit and IE support at least "mousewheel"
       // or assume that remaining browsers are older Firefox
-      wheelType =
-        document.onmousewheel !== undefined ? 'mousewheel' : 'DOMMouseScroll'
+      wheelType = document.onmousewheel !== undefined
+        ? 'mousewheel'
+        : 'DOMMouseScroll'
     }
 
     return wheelType
-  }
-
-  const objPos = match => {
-    for (let i = 0, len = functionList.length; i < len; i++) {
-      if (functionList[i].fn === match) {
-        return i
-      }
-    }
   }
 
   /*
@@ -308,19 +293,11 @@ module.exports = (() => {
     // attach functions to input and intent "events"
     // funct: function to fire on change
     // eventType: 'input'|'intent'
-    registerOnChange: (fn, eventType) => {
+    onChange: (funct, eventType) => {
       functionList.push({
-        fn: fn,
-        type: eventType || 'input'
+        function: funct,
+        type: eventType
       })
-    },
-
-    unRegisterOnChange: fn => {
-      let position = objPos(fn)
-
-      if (position) {
-        functionList.splice(position, 1)
-      }
     }
   }
 })()
