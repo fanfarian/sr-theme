@@ -1,13 +1,18 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+## 1.2.1 (2017-10-25)
+* Bower Updates
+	- foundation-sites 6.4.3
+	- what-input 4.1.6
+
 ## 1.2.0 (2017-06-13)
 * Small Bugfixes & has_thumbnail() request for loop- files
 * Update YahnisElsts PUC 4.1
 * Bower Updates
 	- fontfaceobserver 2.0.13
 	- foundation-sites 6.4.1
-	- what-input 4.3.1
+	- what-input 4.1.3
 
 
 ## 1.1.11 (2017-05-18)

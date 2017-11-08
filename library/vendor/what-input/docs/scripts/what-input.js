@@ -1,6 +1,6 @@
 /**
  * what-input - A global utility for tracking the current input method (mouse, keyboard or touch).
- * @version v4.3.1
+ * @version v4.1.6
  * @link https://github.com/ten1seven/what-input
  * @license MIT
  */
@@ -58,7 +58,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	'use strict';
 
@@ -90,14 +90,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  93 // Windows menu / right Apple cmd
 	  ];
 
-	  // list of keys for which we change intent even for form inputs
-	  var changeIntentMap = [9 // tab
-	  ];
-
 	  // mapping of events to input types
 	  var inputMap = {
 	    keydown: 'keyboard',
-	    keyup: 'keyboard',
 	    mousedown: 'mouse',
 	    mousemove: 'mouse',
 	    MSPointerDown: 'pointer',
@@ -161,7 +156,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	    // `pointermove`, `MSPointerMove`, `mousemove` and mouse wheel event binding
 	    // can only demonstrate potential, but not actual, interaction
 	    // and are treated separately
-	    var options = supportsPassive ? { passive: true } : false;
 
 	    // pointer events (mouse, pen, touch)
 	    if (window.PointerEvent) {
@@ -177,17 +171,16 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	      // touch events
 	      if ('ontouchstart' in window) {
-	        doc.addEventListener('touchstart', touchBuffer, options);
+	        doc.addEventListener('touchstart', touchBuffer);
 	        doc.addEventListener('touchend', touchBuffer);
 	      }
 	    }
 
 	    // mouse wheel
-	    doc.addEventListener(detectWheel(), setIntent, options);
+	    doc.addEventListener(detectWheel(), setIntent, supportsPassive ? { passive: true } : false);
 
 	    // keyboard events
 	    doc.addEventListener('keydown', updateInput);
-	    doc.addEventListener('keyup', updateInput);
 	  };
 
 	  // checks conditions before updating new input
@@ -201,9 +194,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	      if (currentInput !== value || currentIntent !== value) {
 	        var activeElem = document.activeElement;
 	        var activeInput = false;
-	        var notFormInput = activeElem && activeElem.nodeName && formInputs.indexOf(activeElem.nodeName.toLowerCase()) === -1;
 
-	        if (notFormInput || changeIntentMap.indexOf(eventKey) !== -1) {
+	        if (activeElem && activeElem.nodeName && formInputs.indexOf(activeElem.nodeName.toLowerCase()) === -1) {
 	          activeInput = true;
 	        }
 
@@ -278,7 +270,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	  var fireFunctions = function fireFunctions(type) {
 	    for (var i = 0, len = functionList.length; i < len; i++) {
 	      if (functionList[i].type === type) {
-	        functionList[i].fn.call(undefined, currentIntent);
+	        functionList[i].function.call(undefined, currentIntent);
 	      }
 	    }
 	  };
@@ -311,14 +303,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	    }
 
 	    return wheelType;
-	  };
-
-	  var objPos = function objPos(match) {
-	    for (var i = 0, len = functionList.length; i < len; i++) {
-	      if (functionList[i].fn === match) {
-	        return i;
-	      }
-	    }
 	  };
 
 	  /*
@@ -357,24 +341,16 @@ return /******/ (function(modules) { // webpackBootstrap
 	    // attach functions to input and intent "events"
 	    // funct: function to fire on change
 	    // eventType: 'input'|'intent'
-	    registerOnChange: function registerOnChange(fn, eventType) {
+	    onChange: function onChange(funct, eventType) {
 	      functionList.push({
-	        fn: fn,
-	        type: eventType || 'input'
+	        function: funct,
+	        type: eventType
 	      });
-	    },
-
-	    unRegisterOnChange: function unRegisterOnChange(fn) {
-	      var position = objPos(fn);
-
-	      if (position) {
-	        functionList.splice(position, 1);
-	      }
 	    }
 	  };
 	}();
 
-/***/ }
+/***/ })
 /******/ ])
 });
 ;
