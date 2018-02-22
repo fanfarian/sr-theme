@@ -7,39 +7,45 @@
 		"uuidString": "21EFF807-0F4E-44B9-96CB-4638B542B03A"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26261",
 "files": {
 	"\/.bowerrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.bowerrc",
 		"oF": 0
 		},
 	"\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
 	"\/.jshintignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.jshintignore",
 		"oF": 0
 		},
 	"\/404.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/404.php",
 		"oF": 0
 		},
 	"\/archive-custom_type.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/archive-custom_type.php",
 		"oF": 0
 		},
 	"\/archive.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/archive.php",
@@ -56,6 +62,7 @@
 		"oS": 0
 		},
 	"\/assets\/css\/login.css.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/css\/login.css.map",
@@ -72,6 +79,7 @@
 		"oS": 0
 		},
 	"\/assets\/css\/style.css.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/css\/style.css.map",
@@ -184,6 +192,7 @@
 		"uL": 1
 		},
 	"\/assets\/scss\/config.rb": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/scss\/config.rb",
@@ -197,8 +206,8 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/assets\/scss\/login.css",
-		"oF": 0,
+		"oAP": "\/assets\/css\/login.css",
+		"oF": 2,
 		"oS": 3,
 		"uL": 1
 		},
@@ -224,22 +233,24 @@
 		"oS": 1
 		},
 	"\/browserconfig.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/browserconfig.xml",
 		"oF": 0
 		},
 	"\/CHANGELOG.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/CHANGELOG.html",
 		"oF": 0
 		},
 	"\/CHANGELOG.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -254,12 +265,14 @@
 		"uCM": 0
 		},
 	"\/comments.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/comments.php",
 		"oF": 0
 		},
 	"\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/favicon.ico",
@@ -277,126 +290,147 @@
 		"q": 100
 		},
 	"\/footer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/footer.php",
 		"oF": 0
 		},
 	"\/front-page.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/front-page.php",
 		"oF": 0
 		},
 	"\/functions.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/functions.php",
 		"oF": 0
 		},
 	"\/header.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/header.php",
 		"oF": 0
 		},
 	"\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/index.php",
 		"oF": 0
 		},
 	"\/languages\/de_DE.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/de_DE.mo",
 		"oF": 0
 		},
 	"\/languages\/de_DE.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/de_DE.po",
 		"oF": 0
 		},
 	"\/languages\/default.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/default.mo",
 		"oF": 0
 		},
 	"\/languages\/default.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/default.po",
 		"oF": 0
 		},
 	"\/library\/functions\/CHILD-FUNCTION-dashboard-widgets.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/library\/functions\/CHILD-FUNCTION-dashboard-widgets.php",
 		"oF": 0
 		},
 	"\/library\/functions\/CHILD-FUNCTION-login.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/library\/functions\/CHILD-FUNCTION-login.php",
 		"oF": 0
 		},
 	"\/library\/functions\/CHILD-FUNCTION-related-posts.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/functions\/CHILD-FUNCTION-related-posts.php",
 		"oF": 0
 		},
 	"\/library\/functions\/CHILD-FUNCTION-theme-images.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/library\/functions\/CHILD-FUNCTION-theme-images.php",
 		"oF": 0
 		},
 	"\/library\/functions\/comments-navigation.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/library\/functions\/comments-navigation.php",
 		"oF": 0
 		},
 	"\/library\/functions\/comments.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/library\/functions\/comments.php",
 		"oF": 0
 		},
 	"\/library\/functions\/enqueue-scripts-styles.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/functions\/enqueue-scripts-styles.php",
 		"oF": 0
 		},
 	"\/library\/functions\/foundation.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/library\/functions\/foundation.php",
 		"oF": 0
 		},
 	"\/library\/functions\/menu-pagination.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/library\/functions\/menu-pagination.php",
 		"oF": 0
 		},
 	"\/library\/functions\/menu.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/library\/functions\/menu.php",
 		"oF": 0
 		},
 	"\/library\/functions\/theme-support.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/library\/functions\/theme-support.php",
 		"oF": 0
 		},
 	"\/library\/functions\/theme-widgets.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/library\/functions\/theme-widgets.php",
@@ -447,262 +481,304 @@
 		"tS": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-de_DE.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker-de_DE.mo",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-de_DE.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker-de_DE.po",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-fa_IR.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker-fa_IR.mo",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-fa_IR.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker-fa_IR.po",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-fr_FR.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker-fr_FR.mo",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-fr_FR.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker-fr_FR.po",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-hu_HU.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker-hu_HU.mo",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-hu_HU.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker-hu_HU.po",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-it_IT.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker-it_IT.mo",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-it_IT.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker-it_IT.po",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-ja.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker-ja.mo",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker-ja.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker-ja.po",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/languages\/plugin-update-checker.pot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/languages\/plugin-update-checker.pot",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/license.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/license.txt",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/plugin-update-checker.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/plugin-update-checker.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4\/Factory.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4\/Factory.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Autoloader.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Autoloader.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/DebugBar\/Extension.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/DebugBar\/Extension.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/DebugBar\/Panel.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/DebugBar\/Panel.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/DebugBar\/PluginExtension.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/DebugBar\/PluginExtension.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/DebugBar\/PluginPanel.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/DebugBar\/PluginPanel.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/DebugBar\/ThemePanel.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/DebugBar\/ThemePanel.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Metadata.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Metadata.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/OAuthSignature.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/OAuthSignature.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Plugin\/Info.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Plugin\/Info.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Plugin\/Update.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Plugin\/Update.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Plugin\/UpdateChecker.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Plugin\/UpdateChecker.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Scheduler.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Scheduler.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/StateStore.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/StateStore.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Theme\/Update.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Theme\/Update.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Theme\/UpdateChecker.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Theme\/UpdateChecker.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Update.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Update.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/UpdateChecker.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/UpdateChecker.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/UpgraderStatus.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/UpgraderStatus.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Utils.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Utils.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Vcs\/Api.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Vcs\/Api.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Vcs\/BaseChecker.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Vcs\/BaseChecker.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Vcs\/BitBucketApi.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Vcs\/BitBucketApi.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Vcs\/GitHubApi.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Vcs\/GitHubApi.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Vcs\/PluginUpdateChecker.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Vcs\/PluginUpdateChecker.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Vcs\/Reference.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Vcs\/Reference.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/Puc\/v4p1\/Vcs\/ThemeUpdateChecker.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/Puc\/v4p1\/Vcs\/ThemeUpdateChecker.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -717,24 +793,28 @@
 		"uCM": 0
 		},
 	"\/library\/plugin-update-checker\/vendor\/Parsedown.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/vendor\/Parsedown.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/vendor\/ParsedownLegacy.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/vendor\/ParsedownLegacy.php",
 		"oF": 0
 		},
 	"\/library\/plugin-update-checker\/vendor\/readme-parser.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/plugin-update-checker-4.1\/vendor\/readme-parser.php",
 		"oF": 0
 		},
 	"\/library\/sr-theme-child.zip": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/sr-theme-child.zip",
@@ -749,12 +829,14 @@
 		"oS": 1
 		},
 	"\/library\/vendor\/fontfaceobserver\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/fontfaceobserver\/.gitignore",
 		"oF": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/fontfaceobserver\/.travis.yml",
@@ -829,6 +911,7 @@
 		"tS": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/fontfaceobserver\/LICENSE",
@@ -843,10 +926,10 @@
 		"oS": 1
 		},
 	"\/library\/vendor\/fontfaceobserver\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -891,6 +974,7 @@
 		"tS": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/test\/assets\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/assets\/index.html",
@@ -907,36 +991,42 @@
 		"oS": 3
 		},
 	"\/library\/vendor\/fontfaceobserver\/test\/assets\/sourcesanspro-regular.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/assets\/sourcesanspro-regular.eot",
 		"oF": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/test\/assets\/sourcesanspro-regular.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/assets\/sourcesanspro-regular.ttf",
 		"oF": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/test\/assets\/sourcesanspro-regular.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/assets\/sourcesanspro-regular.woff",
 		"oF": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/test\/assets\/subset.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/assets\/subset.eot",
 		"oF": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/test\/assets\/subset.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/assets\/subset.ttf",
 		"oF": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/test\/assets\/subset.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/assets\/subset.woff",
@@ -953,6 +1043,7 @@
 		"tS": 0
 		},
 	"\/library\/vendor\/fontfaceobserver\/test\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/fontfaceobserver\/test\/index.html",
@@ -997,28 +1088,24 @@
 		"oS": 1
 		},
 	"\/library\/vendor\/foundation-sites\/.bowerrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/foundation-sites\/.bowerrc",
 		"oF": 0
 		},
 	"\/library\/vendor\/foundation-sites\/.eslintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/foundation-sites\/.eslintrc",
 		"oF": 0
 		},
-	"\/library\/vendor\/foundation-sites\/.github\/ISSUE_TEMPLATE.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/library\/vendor\/foundation-sites\/.github\/ISSUE_TEMPLATE.html",
-		"oF": 0
-		},
 	"\/library\/vendor\/foundation-sites\/.github\/ISSUE_TEMPLATE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1033,10 +1120,10 @@
 		"uCM": 0
 		},
 	"\/library\/vendor\/foundation-sites\/.github\/PULL_REQUEST_TEMPLATE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1051,12 +1138,14 @@
 		"uCM": 0
 		},
 	"\/library\/vendor\/foundation-sites\/.sass-lint.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/foundation-sites\/.sass-lint.yml",
 		"oF": 0
 		},
 	"\/library\/vendor\/foundation-sites\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/foundation-sites\/.travis.yml",
@@ -1231,22 +1320,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/library\/vendor\/foundation-sites\/assets\/foundation-prototype.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/assets\/foundation-prototype-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/library\/vendor\/foundation-sites\/assets\/foundation-prototype.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/library\/vendor\/foundation-sites\/assets\/foundation-prototype.css.map",
-		"oF": 0
-		},
 	"\/library\/vendor\/foundation-sites\/assets\/foundation-prototype.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -1260,22 +1333,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/library\/vendor\/foundation-sites\/assets\/foundation-rtl.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/assets\/foundation-rtl-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/library\/vendor\/foundation-sites\/assets\/foundation-rtl.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/library\/vendor\/foundation-sites\/assets\/foundation-rtl.css.map",
-		"oF": 0
-		},
 	"\/library\/vendor\/foundation-sites\/assets\/foundation-rtl.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -1288,22 +1345,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/library\/vendor\/foundation-sites\/assets\/foundation.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/library\/vendor\/foundation-sites\/assets\/foundation-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/library\/vendor\/foundation-sites\/assets\/foundation.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/library\/vendor\/foundation-sites\/assets\/foundation.css.map",
-		"oF": 0
 		},
 	"\/library\/vendor\/foundation-sites\/assets\/foundation.scss": {
 		"aP": 1,
@@ -1335,10 +1376,10 @@
 		"oS": 1
 		},
 	"\/library\/vendor\/foundation-sites\/code-of-conduct.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1361,6 +1402,7 @@
 		"oS": 1
 		},
 	"\/library\/vendor\/foundation-sites\/customizer\/config.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/foundation-sites\/customizer\/config.yml",
@@ -1375,6 +1417,7 @@
 		"oS": 1
 		},
 	"\/library\/vendor\/foundation-sites\/customizer\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/foundation-sites\/customizer\/index.html",
@@ -1481,7 +1524,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/library\/vendor\/foundation-sites\/dist\/js\/foundation-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -2168,6 +2211,7 @@
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/docslink.sh": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/foundation-sites\/docslink.sh",
@@ -2844,6 +2888,7 @@
 		"tS": 0
 		},
 	"\/library\/vendor\/foundation-sites\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/foundation-sites\/LICENSE",
@@ -2858,10 +2903,10 @@
 		"oS": 1
 		},
 	"\/library\/vendor\/foundation-sites\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4259,6 +4304,7 @@
 		"oS": 1
 		},
 	"\/library\/vendor\/jquery\/AUTHORS.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/jquery\/AUTHORS.txt",
@@ -4303,6 +4349,7 @@
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/dist\/jquery.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/jquery\/dist\/jquery.min.map",
@@ -4329,6 +4376,7 @@
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/dist\/jquery.slim.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/jquery\/dist\/jquery.slim.min.map",
@@ -4355,28 +4403,31 @@
 		"tS": 0
 		},
 	"\/library\/vendor\/jquery\/external\/sizzle\/dist\/sizzle.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/jquery\/external\/sizzle\/dist\/sizzle.min.map",
 		"oF": 0
 		},
 	"\/library\/vendor\/jquery\/external\/sizzle\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/jquery\/external\/sizzle\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/library\/vendor\/jquery\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/jquery\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/library\/vendor\/jquery\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4578,6 +4629,16 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/library\/vendor\/jquery\/src\/core\/camelCase.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/camelCase-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/library\/vendor\/jquery\/src\/core\/DOMEval.js": {
 		"ft": 64,
 		"ma": 0,
@@ -4664,6 +4725,16 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/library\/vendor\/jquery\/src\/core\/support-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/library\/vendor\/jquery\/src\/core\/toType.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/library\/vendor\/jquery\/src\/core\/toType-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4778,12 +4849,12 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/library\/vendor\/jquery\/src\/css\/var\/rmargin.js": {
+	"\/library\/vendor\/jquery\/src\/css\/var\/rboxStyle.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/rmargin-min.js",
+		"oAP": "\/library\/vendor\/jquery\/src\/css\/var\/rboxStyle-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -5328,6 +5399,26 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/library\/vendor\/jquery\/src\/var\/isFunction.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/isFunction-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/library\/vendor\/jquery\/src\/var\/isWindow.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/library\/vendor\/jquery\/src\/var\/isWindow-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/library\/vendor\/jquery\/src\/var\/ObjectFunctionString.js": {
 		"ft": 64,
 		"ma": 0,
@@ -5483,10 +5574,10 @@
 		"tS": 0
 		},
 	"\/library\/vendor\/motion-ui\/docs\/animations.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5501,10 +5592,10 @@
 		"uCM": 0
 		},
 	"\/library\/vendor\/motion-ui\/docs\/classes.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5519,10 +5610,10 @@
 		"uCM": 0
 		},
 	"\/library\/vendor\/motion-ui\/docs\/configuration.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5537,10 +5628,10 @@
 		"uCM": 0
 		},
 	"\/library\/vendor\/motion-ui\/docs\/installation.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5555,10 +5646,10 @@
 		"uCM": 0
 		},
 	"\/library\/vendor\/motion-ui\/docs\/javascript.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5573,10 +5664,10 @@
 		"uCM": 0
 		},
 	"\/library\/vendor\/motion-ui\/docs\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5591,10 +5682,10 @@
 		"uCM": 0
 		},
 	"\/library\/vendor\/motion-ui\/docs\/transitions.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5608,17 +5699,11 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/library\/vendor\/motion-ui\/docs\/wow.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/library\/vendor\/motion-ui\/docs\/wow.html",
-		"oF": 0
-		},
 	"\/library\/vendor\/motion-ui\/docs\/wow.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5653,16 +5738,17 @@
 		"tS": 0
 		},
 	"\/library\/vendor\/motion-ui\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/motion-ui\/LICENSE",
 		"oF": 0
 		},
 	"\/library\/vendor\/motion-ui\/meteor-README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5718,10 +5804,10 @@
 		"oS": 1
 		},
 	"\/library\/vendor\/motion-ui\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6029,13 +6115,26 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/library\/vendor\/what-input\/bower.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/library\/vendor\/what-input\/bower-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
+	"\/library\/vendor\/what-input\/.editorconfig": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/vendor\/what-input\/.editorconfig",
+		"oF": 0
+		},
+	"\/library\/vendor\/what-input\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/vendor\/what-input\/.gitignore",
+		"oF": 0
+		},
+	"\/library\/vendor\/what-input\/.nvmrc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/vendor\/what-input\/.nvmrc",
+		"oF": 0
 		},
 	"\/library\/vendor\/what-input\/dist\/lte-IE8.js": {
 		"ft": 64,
@@ -6067,32 +6166,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/library\/vendor\/what-input\/docs\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/library\/vendor\/what-input\/docs\/index.html",
-		"oF": 0
-		},
-	"\/library\/vendor\/what-input\/docs\/scripts\/lte-IE8.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/library\/vendor\/what-input\/docs\/scripts\/lte-IE8-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/library\/vendor\/what-input\/docs\/scripts\/what-input.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/library\/vendor\/what-input\/docs\/scripts\/what-input-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/library\/vendor\/what-input\/Gulpfile.js": {
 		"ft": 64,
 		"ma": 0,
@@ -6104,6 +6177,7 @@
 		"tS": 0
 		},
 	"\/library\/vendor\/what-input\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/what-input\/LICENSE",
@@ -6118,10 +6192,10 @@
 		"oS": 1
 		},
 	"\/library\/vendor\/what-input\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6135,137 +6209,252 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/library\/vendor\/what-input\/src\/polyfills\/ie8\/EventListener.js": {
+	"\/library\/vendor\/what-input\/src\/images\/select-arrow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/library\/vendor\/what-input\/src\/images\/select-arrow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/library\/vendor\/what-input\/src\/markup\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/vendor\/what-input\/src\/markup\/index.html",
+		"oF": 0
+		},
+	"\/library\/vendor\/what-input\/src\/scripts\/polyfills\/ie8\/EventListener.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/what-input\/src\/polyfills\/ie8\/EventListener-min.js",
+		"oAP": "\/library\/vendor\/what-input\/src\/scripts\/polyfills\/ie8\/EventListener-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/library\/vendor\/what-input\/src\/polyfills\/ie8\/indexOf.js": {
+	"\/library\/vendor\/what-input\/src\/scripts\/polyfills\/ie8\/indexOf.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/what-input\/src\/polyfills\/ie8\/indexOf-min.js",
+		"oAP": "\/library\/vendor\/what-input\/src\/scripts\/polyfills\/ie8\/indexOf-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/library\/vendor\/what-input\/src\/what-input.js": {
+	"\/library\/vendor\/what-input\/src\/scripts\/what-input.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/vendor\/what-input\/src\/what-input-min.js",
+		"oAP": "\/library\/vendor\/what-input\/src\/scripts\/what-input-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/library\/vendor\/what-input\/src\/styles\/_html.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/library\/vendor\/what-input\/src\/styles\/_html.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/library\/vendor\/what-input\/src\/styles\/_layout.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/library\/vendor\/what-input\/src\/styles\/_layout.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/library\/vendor\/what-input\/src\/styles\/_mixins.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/library\/vendor\/what-input\/src\/styles\/_mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/library\/vendor\/what-input\/src\/styles\/_variables.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/library\/vendor\/what-input\/src\/styles\/_variables.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/library\/vendor\/what-input\/src\/styles\/index.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/library\/vendor\/what-input\/src\/styles\/index-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/library\/vendor\/what-input\/src\/styles\/index.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/vendor\/what-input\/src\/styles\/index.css.map",
+		"oF": 0
+		},
+	"\/library\/vendor\/what-input\/src\/styles\/index.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/library\/vendor\/what-input\/src\/styles\/index.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/library\/vendor\/what-input\/yarn.lock": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/library\/vendor\/what-input\/yarn.lock",
 		"oF": 0
 		},
 	"\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/LICENSE",
 		"oF": 0
 		},
 	"\/page.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/page.php",
 		"oF": 0
 		},
 	"\/parts\/content-author-info.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/content-author-info.php",
 		"oF": 0
 		},
 	"\/parts\/content-none.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/content-none.php",
 		"oF": 0
 		},
 	"\/parts\/content-offcanvas-left.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/content-offcanvas-left.php",
 		"oF": 0
 		},
 	"\/parts\/content-offcanvas-right.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/content-offcanvas-right.php",
 		"oF": 0
 		},
 	"\/parts\/loop-archive-grid.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/loop-archive-grid.php",
 		"oF": 0
 		},
 	"\/parts\/loop-archive.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/loop-archive.php",
 		"oF": 0
 		},
 	"\/parts\/loop-page.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/loop-page.php",
 		"oF": 0
 		},
 	"\/parts\/loop-single.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/loop-single.php",
 		"oF": 0
 		},
 	"\/parts\/nav-offcanvas-topbar.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/nav-offcanvas-topbar.php",
 		"oF": 0
 		},
 	"\/parts\/nav-offcanvas.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/nav-offcanvas.php",
 		"oF": 0
 		},
 	"\/parts\/nav-title-bar-drilldown.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/nav-title-bar-drilldown.php",
 		"oF": 0
 		},
 	"\/parts\/nav-title-bar.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/nav-title-bar.php",
 		"oF": 0
 		},
 	"\/parts\/nav-topbar.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/nav-topbar.php",
 		"oF": 0
 		},
 	"\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6291,36 +6480,42 @@
 		"q": 100
 		},
 	"\/search.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/search.php",
 		"oF": 0
 		},
 	"\/searchform.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/searchform.php",
 		"oF": 0
 		},
 	"\/sidebar-left.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/sidebar-left.php",
 		"oF": 0
 		},
 	"\/sidebar.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/sidebar.php",
 		"oF": 0
 		},
 	"\/single-custom_type.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/single-custom_type.php",
 		"oF": 0
 		},
 	"\/single.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/single.php",
@@ -6337,18 +6532,21 @@
 		"oS": 0
 		},
 	"\/taxonomy-custom_type.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/taxonomy-custom_type.php",
 		"oF": 0
 		},
 	"\/template-full-width.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/template-full-width.php",
 		"oF": 0
 		},
 	"\/template-sidebar-left.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/template-sidebar-left.php",
@@ -6380,6 +6578,14 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/assets\/js\/foundation.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/library\/vendor\/foundation-sites\/dist\/js\/foundation.js",
+			"position": 0,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
 	"creationDate": 504176407,
@@ -6921,6 +7127,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -6952,6 +7162,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -6985,9 +7199,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -7017,6 +7231,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -7026,14 +7244,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -8137,7 +8347,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
@@ -8170,6 +8381,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -8211,7 +8423,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -8243,13 +8456,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -8258,7 +8471,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -8278,7 +8492,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -8306,7 +8521,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
