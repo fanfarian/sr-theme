@@ -1,6 +1,12 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+## 1.2.2 (2018-02-04)
+* Bower Updates
+	- jQuery 3.3.1
+	- what-input 5.0.4
+
+
 ## 1.2.1 (2017-10-25)
 * Bower Updates
 	- foundation-sites 6.4.3
