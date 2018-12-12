@@ -123,5 +123,7 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
     'sr-theme'
 );
 
+$myUpdateChecker->setBranch('master');
+
 
 ?>

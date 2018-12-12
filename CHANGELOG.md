@@ -1,6 +1,10 @@
 ### sr-theme (http://sr-theme.com) 
 # Changelog
 
+## 1.2.3 (2018-12-12)
+* Update YahnisElsts PUC 4.4
+
+
 ## 1.2.2 (2018-02-04)
 * Bower Updates
 	- jQuery 3.3.1
