@@ -7,11 +7,12 @@
 		"uuidString": "21EFF807-0F4E-44B9-96CB-4638B542B03A"
 		}
 	],
-"creatorBuild": "28905",
+"creatorBuild": "31934",
 "files": {
 	"/.bowerrc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/.bowerrc",
 		"oF": 0
@@ -19,6 +20,7 @@
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/.gitignore",
 		"oF": 0
@@ -26,6 +28,7 @@
 	"/.jshintignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/.jshintignore",
 		"oF": 0
@@ -33,6 +36,7 @@
 	"/404.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/404.php",
 		"oF": 0
@@ -40,6 +44,7 @@
 	"/archive-custom_type.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/archive-custom_type.php",
 		"oF": 0
@@ -47,6 +52,7 @@
 	"/archive.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/archive.php",
 		"oF": 0
@@ -64,6 +70,7 @@
 	"/assets/css/login.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/css/login.css.map",
 		"oF": 0
@@ -81,6 +88,7 @@
 	"/assets/css/style.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/css/style.css.map",
 		"oF": 0
@@ -97,6 +105,7 @@
 		"q": 100
 		},
 	"/assets/js/foundation.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -107,6 +116,7 @@
 		"tS": 0
 		},
 	"/assets/js/foundation.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -117,6 +127,7 @@
 		"tS": 0
 		},
 	"/assets/js/jquery-migrate-3.0.0.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -194,6 +205,7 @@
 	"/assets/scss/config.rb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/scss/config.rb",
 		"oF": 0
@@ -235,6 +247,7 @@
 	"/browserconfig.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/browserconfig.xml",
 		"oF": 0
@@ -242,11 +255,12 @@
 	"/CHANGELOG.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/CHANGELOG.html",
 		"oF": 0
 		},
-	"/CHANGELOG.md": {
+	"/changelog.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -254,8 +268,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "/CHANGELOG.html",
+		"oAP": "/changelog.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -267,6 +282,7 @@
 	"/comments.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/comments.php",
 		"oF": 0
@@ -274,6 +290,7 @@
 	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/favicon.ico",
 		"oF": 0
@@ -292,6 +309,7 @@
 	"/footer.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/footer.php",
 		"oF": 0
@@ -299,6 +317,7 @@
 	"/front-page.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/front-page.php",
 		"oF": 0
@@ -306,6 +325,7 @@
 	"/functions.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/functions.php",
 		"oF": 0
@@ -313,6 +333,7 @@
 	"/header.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/header.php",
 		"oF": 0
@@ -320,6 +341,7 @@
 	"/index.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/index.php",
 		"oF": 0
@@ -327,6 +349,7 @@
 	"/languages/de_DE.mo": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/languages/de_DE.mo",
 		"oF": 0
@@ -334,6 +357,7 @@
 	"/languages/de_DE.po": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/languages/de_DE.po",
 		"oF": 0
@@ -341,6 +365,7 @@
 	"/languages/default.mo": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/languages/default.mo",
 		"oF": 0
@@ -348,6 +373,7 @@
 	"/languages/default.po": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/languages/default.po",
 		"oF": 0
@@ -355,6 +381,7 @@
 	"/library/functions/CHILD-FUNCTION-dashboard-widgets.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/functions/CHILD-FUNCTION-dashboard-widgets.php",
 		"oF": 0
@@ -362,6 +389,7 @@
 	"/library/functions/CHILD-FUNCTION-login.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/functions/CHILD-FUNCTION-login.php",
 		"oF": 0
@@ -369,6 +397,7 @@
 	"/library/functions/CHILD-FUNCTION-related-posts.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/functions/CHILD-FUNCTION-related-posts.php",
 		"oF": 0
@@ -376,6 +405,7 @@
 	"/library/functions/CHILD-FUNCTION-theme-images.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/functions/CHILD-FUNCTION-theme-images.php",
 		"oF": 0
@@ -383,6 +413,7 @@
 	"/library/functions/comments-navigation.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/functions/comments-navigation.php",
 		"oF": 0
@@ -390,6 +421,7 @@
 	"/library/functions/comments.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/functions/comments.php",
 		"oF": 0
@@ -397,6 +429,7 @@
 	"/library/functions/enqueue-scripts-styles.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/functions/enqueue-scripts-styles.php",
 		"oF": 0
@@ -404,6 +437,7 @@
 	"/library/functions/foundation.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/functions/foundation.php",
 		"oF": 0
@@ -411,6 +445,7 @@
 	"/library/functions/menu-pagination.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/functions/menu-pagination.php",
 		"oF": 0
@@ -418,6 +453,7 @@
 	"/library/functions/menu.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/functions/menu.php",
 		"oF": 0
@@ -425,6 +461,7 @@
 	"/library/functions/theme-support.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/functions/theme-support.php",
 		"oF": 0
@@ -432,6 +469,7 @@
 	"/library/functions/theme-widgets.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/functions/theme-widgets.php",
 		"oF": 0
@@ -439,6 +477,7 @@
 	"/library/plugin-update-checker/.editorconfig": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/.editorconfig",
 		"oF": 0
@@ -478,6 +517,7 @@
 		"oS": 1
 		},
 	"/library/plugin-update-checker/js/debug-bar.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -490,6 +530,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-cs_CZ.mo": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/languages/plugin-update-checker-cs_CZ.mo",
 		"oF": 0
@@ -497,6 +538,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-cs_CZ.po": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/languages/plugin-update-checker-cs_CZ.po",
 		"oF": 0
@@ -504,6 +546,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-da_DK.mo": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/languages/plugin-update-checker-da_DK.mo",
 		"oF": 0
@@ -511,6 +554,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-da_DK.po": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/languages/plugin-update-checker-da_DK.po",
 		"oF": 0
@@ -518,6 +562,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-de_DE.mo": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker-de_DE.mo",
 		"oF": 0
@@ -525,6 +570,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-de_DE.po": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker-de_DE.po",
 		"oF": 0
@@ -532,6 +578,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-fa_IR.mo": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker-fa_IR.mo",
 		"oF": 0
@@ -539,6 +586,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-fa_IR.po": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker-fa_IR.po",
 		"oF": 0
@@ -546,6 +594,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-fr_FR.mo": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker-fr_FR.mo",
 		"oF": 0
@@ -553,6 +602,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-fr_FR.po": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker-fr_FR.po",
 		"oF": 0
@@ -560,6 +610,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-hu_HU.mo": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker-hu_HU.mo",
 		"oF": 0
@@ -567,6 +618,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-hu_HU.po": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker-hu_HU.po",
 		"oF": 0
@@ -574,6 +626,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-it_IT.mo": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker-it_IT.mo",
 		"oF": 0
@@ -581,6 +634,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-it_IT.po": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker-it_IT.po",
 		"oF": 0
@@ -588,6 +642,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-ja.mo": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker-ja.mo",
 		"oF": 0
@@ -595,6 +650,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-ja.po": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker-ja.po",
 		"oF": 0
@@ -602,6 +658,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-pt_BR.mo": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/languages/plugin-update-checker-pt_BR.mo",
 		"oF": 0
@@ -609,6 +666,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-pt_BR.po": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/languages/plugin-update-checker-pt_BR.po",
 		"oF": 0
@@ -616,6 +674,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-sv_SE.mo": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/languages/plugin-update-checker-sv_SE.mo",
 		"oF": 0
@@ -623,6 +682,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker-sv_SE.po": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/languages/plugin-update-checker-sv_SE.po",
 		"oF": 0
@@ -630,6 +690,7 @@
 	"/library/plugin-update-checker/languages/plugin-update-checker.pot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/languages/plugin-update-checker.pot",
 		"oF": 0
@@ -637,6 +698,7 @@
 	"/library/plugin-update-checker/license.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/license.txt",
 		"oF": 0
@@ -644,6 +706,7 @@
 	"/library/plugin-update-checker/plugin-update-checker.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/plugin-update-checker.php",
 		"oF": 0
@@ -651,6 +714,7 @@
 	"/library/plugin-update-checker/Puc/v4/Factory.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/Puc/v4/Factory.php",
 		"oF": 0
@@ -658,6 +722,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Autoloader.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Autoloader.php",
 		"oF": 0
@@ -665,6 +730,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/DebugBar/Extension.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/DebugBar/Extension.php",
 		"oF": 0
@@ -672,6 +738,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/DebugBar/Panel.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/DebugBar/Panel.php",
 		"oF": 0
@@ -679,6 +746,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/DebugBar/PluginExtension.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/DebugBar/PluginExtension.php",
 		"oF": 0
@@ -686,6 +754,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/DebugBar/PluginPanel.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/DebugBar/PluginPanel.php",
 		"oF": 0
@@ -693,6 +762,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/DebugBar/ThemePanel.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/DebugBar/ThemePanel.php",
 		"oF": 0
@@ -700,6 +770,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Factory.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Factory.php",
 		"oF": 0
@@ -707,6 +778,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Metadata.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Metadata.php",
 		"oF": 0
@@ -714,6 +786,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/OAuthSignature.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/OAuthSignature.php",
 		"oF": 0
@@ -721,6 +794,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Plugin/Info.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Plugin/Info.php",
 		"oF": 0
@@ -728,6 +802,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Plugin/Update.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Plugin/Update.php",
 		"oF": 0
@@ -735,6 +810,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php",
 		"oF": 0
@@ -742,6 +818,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Scheduler.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Scheduler.php",
 		"oF": 0
@@ -749,6 +826,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/StateStore.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/StateStore.php",
 		"oF": 0
@@ -756,6 +834,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Theme/Update.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Theme/Update.php",
 		"oF": 0
@@ -763,6 +842,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Theme/UpdateChecker.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Theme/UpdateChecker.php",
 		"oF": 0
@@ -770,6 +850,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Update.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Update.php",
 		"oF": 0
@@ -777,6 +858,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/UpdateChecker.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/UpdateChecker.php",
 		"oF": 0
@@ -784,6 +866,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/UpgraderStatus.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/UpgraderStatus.php",
 		"oF": 0
@@ -791,6 +874,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Utils.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Utils.php",
 		"oF": 0
@@ -798,6 +882,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Vcs/Api.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Vcs/Api.php",
 		"oF": 0
@@ -805,6 +890,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Vcs/BaseChecker.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Vcs/BaseChecker.php",
 		"oF": 0
@@ -812,6 +898,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Vcs/BitBucketApi.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Vcs/BitBucketApi.php",
 		"oF": 0
@@ -819,6 +906,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Vcs/GitHubApi.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Vcs/GitHubApi.php",
 		"oF": 0
@@ -826,6 +914,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Vcs/GitLabApi.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Vcs/GitLabApi.php",
 		"oF": 0
@@ -833,6 +922,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php",
 		"oF": 0
@@ -840,6 +930,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Vcs/Reference.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Vcs/Reference.php",
 		"oF": 0
@@ -847,6 +938,7 @@
 	"/library/plugin-update-checker/Puc/v4p4/Vcs/ThemeUpdateChecker.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker/Puc/v4p4/Vcs/ThemeUpdateChecker.php",
 		"oF": 0
@@ -859,6 +951,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/plugin-update-checker-4.1/README.html",
 		"oF": 0,
@@ -872,6 +965,7 @@
 	"/library/plugin-update-checker/vendor/Parsedown.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/vendor/Parsedown.php",
 		"oF": 0
@@ -879,6 +973,7 @@
 	"/library/plugin-update-checker/vendor/ParsedownLegacy.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/vendor/ParsedownLegacy.php",
 		"oF": 0
@@ -886,6 +981,7 @@
 	"/library/plugin-update-checker/vendor/readme-parser.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/plugin-update-checker-4.1/vendor/readme-parser.php",
 		"oF": 0
@@ -893,6 +989,7 @@
 	"/library/sr-theme-child.zip": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/sr-theme-child.zip",
 		"oF": 0
@@ -908,6 +1005,7 @@
 	"/library/vendor/fontfaceobserver/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/fontfaceobserver/.gitignore",
 		"oF": 0
@@ -915,6 +1013,7 @@
 	"/library/vendor/fontfaceobserver/.travis.yml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/fontfaceobserver/.travis.yml",
 		"oF": 0
@@ -928,6 +1027,7 @@
 		"oS": 1
 		},
 	"/library/vendor/fontfaceobserver/exports.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -938,6 +1038,7 @@
 		"tS": 0
 		},
 	"/library/vendor/fontfaceobserver/externs-commonjs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -948,6 +1049,7 @@
 		"tS": 0
 		},
 	"/library/vendor/fontfaceobserver/externs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -958,6 +1060,7 @@
 		"tS": 0
 		},
 	"/library/vendor/fontfaceobserver/fontfaceobserver.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -968,6 +1071,7 @@
 		"tS": 0
 		},
 	"/library/vendor/fontfaceobserver/fontfaceobserver.standalone.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -978,6 +1082,7 @@
 		"tS": 0
 		},
 	"/library/vendor/fontfaceobserver/Gruntfile.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -990,6 +1095,7 @@
 	"/library/vendor/fontfaceobserver/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/fontfaceobserver/LICENSE",
 		"oF": 0
@@ -1010,6 +1116,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/fontfaceobserver/README.html",
 		"oF": 0,
@@ -1021,6 +1128,7 @@
 		"uCM": 0
 		},
 	"/library/vendor/fontfaceobserver/src/descriptors.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1031,6 +1139,7 @@
 		"tS": 0
 		},
 	"/library/vendor/fontfaceobserver/src/observer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1041,6 +1150,7 @@
 		"tS": 0
 		},
 	"/library/vendor/fontfaceobserver/src/ruler.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1053,6 +1163,7 @@
 	"/library/vendor/fontfaceobserver/test/assets/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/fontfaceobserver/test/assets/index.html",
 		"oF": 0
@@ -1070,6 +1181,7 @@
 	"/library/vendor/fontfaceobserver/test/assets/sourcesanspro-regular.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/fontfaceobserver/test/assets/sourcesanspro-regular.eot",
 		"oF": 0
@@ -1077,6 +1189,7 @@
 	"/library/vendor/fontfaceobserver/test/assets/sourcesanspro-regular.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/fontfaceobserver/test/assets/sourcesanspro-regular.ttf",
 		"oF": 0
@@ -1084,6 +1197,7 @@
 	"/library/vendor/fontfaceobserver/test/assets/sourcesanspro-regular.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/fontfaceobserver/test/assets/sourcesanspro-regular.woff",
 		"oF": 0
@@ -1091,6 +1205,7 @@
 	"/library/vendor/fontfaceobserver/test/assets/subset.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/fontfaceobserver/test/assets/subset.eot",
 		"oF": 0
@@ -1098,6 +1213,7 @@
 	"/library/vendor/fontfaceobserver/test/assets/subset.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/fontfaceobserver/test/assets/subset.ttf",
 		"oF": 0
@@ -1105,11 +1221,13 @@
 	"/library/vendor/fontfaceobserver/test/assets/subset.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/fontfaceobserver/test/assets/subset.woff",
 		"oF": 0
 		},
 	"/library/vendor/fontfaceobserver/test/deps.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1122,11 +1240,13 @@
 	"/library/vendor/fontfaceobserver/test/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/fontfaceobserver/test/index.html",
 		"oF": 0
 		},
 	"/library/vendor/fontfaceobserver/test/observer-test.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1137,6 +1257,7 @@
 		"tS": 0
 		},
 	"/library/vendor/fontfaceobserver/test/ruler-test.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1147,6 +1268,7 @@
 		"tS": 0
 		},
 	"/library/vendor/fontfaceobserver/vendor/google/base.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1167,6 +1289,7 @@
 	"/library/vendor/foundation-sites/.bowerrc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/foundation-sites/.bowerrc",
 		"oF": 0
@@ -1174,6 +1297,7 @@
 	"/library/vendor/foundation-sites/.eslintrc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/foundation-sites/.eslintrc",
 		"oF": 0
@@ -1186,6 +1310,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/foundation-sites/.github/ISSUE_TEMPLATE.html",
 		"oF": 0,
@@ -1204,6 +1329,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/foundation-sites/.github/PULL_REQUEST_TEMPLATE.html",
 		"oF": 0,
@@ -1217,6 +1343,7 @@
 	"/library/vendor/foundation-sites/.sass-lint.yml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/foundation-sites/.sass-lint.yml",
 		"oF": 0
@@ -1224,6 +1351,7 @@
 	"/library/vendor/foundation-sites/.travis.yml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/foundation-sites/.travis.yml",
 		"oF": 0
@@ -1460,6 +1588,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/foundation-sites/code-of-conduct.html",
 		"oF": 0,
@@ -1481,6 +1610,7 @@
 	"/library/vendor/foundation-sites/customizer/config.yml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/foundation-sites/customizer/config.yml",
 		"oF": 0
@@ -1496,6 +1626,7 @@
 	"/library/vendor/foundation-sites/customizer/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/foundation-sites/customizer/index.html",
 		"oF": 0
@@ -1595,6 +1726,7 @@
 		"tEC": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/foundation.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1605,6 +1737,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/foundation.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1615,6 +1748,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/npm.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1625,6 +1759,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.abide.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1635,6 +1770,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.abide.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1645,6 +1781,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.accordion.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1655,6 +1792,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.accordion.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1665,6 +1803,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.accordionMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1675,6 +1814,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.accordionMenu.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1685,6 +1825,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.core.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1695,6 +1836,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.core.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1705,6 +1847,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.drilldown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1715,6 +1858,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.drilldown.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1725,6 +1869,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.dropdown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1735,6 +1880,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.dropdown.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1745,6 +1891,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.dropdownMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1755,6 +1902,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.dropdownMenu.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1765,6 +1913,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.equalizer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1775,6 +1924,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.equalizer.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1785,6 +1935,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.interchange.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1795,6 +1946,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.interchange.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1805,6 +1957,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.magellan.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1815,6 +1968,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.magellan.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1825,6 +1979,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.offcanvas.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1835,6 +1990,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.offcanvas.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1845,6 +2001,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.orbit.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1855,6 +2012,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.orbit.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1865,6 +2023,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.responsiveAccordionTabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1875,6 +2034,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.responsiveAccordionTabs.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1885,6 +2045,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.responsiveMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1895,6 +2056,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.responsiveMenu.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1905,6 +2067,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.responsiveToggle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1915,6 +2078,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.responsiveToggle.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1925,6 +2089,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.reveal.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1935,6 +2100,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.reveal.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1945,6 +2111,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.slider.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1955,6 +2122,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.slider.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1965,6 +2133,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.smoothScroll.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1975,6 +2144,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.smoothScroll.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1985,6 +2155,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.sticky.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1995,6 +2166,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.sticky.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2005,6 +2177,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.tabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2015,6 +2188,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.tabs.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2025,6 +2199,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.toggler.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2035,6 +2210,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.toggler.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2045,6 +2221,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.tooltip.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2055,6 +2232,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.tooltip.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2065,6 +2243,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.box.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2075,6 +2254,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.box.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2085,6 +2265,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.imageLoader.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2095,6 +2276,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.imageLoader.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2105,6 +2287,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.keyboard.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2115,6 +2298,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.keyboard.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2125,6 +2309,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2135,6 +2320,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2145,6 +2331,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.motion.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2155,6 +2342,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.motion.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2165,6 +2353,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.nest.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2175,6 +2364,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.nest.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2185,6 +2375,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.timer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2195,6 +2386,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.timer.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2205,6 +2397,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.timerAndImageLoader.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2215,6 +2408,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.timerAndImageLoader.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2225,6 +2419,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.touch.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2235,6 +2430,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.touch.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2245,6 +2441,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.triggers.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2255,6 +2452,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.util.triggers.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2265,6 +2463,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.zf.responsiveAccordionTabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2275,6 +2474,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/dist/js/plugins/foundation.zf.responsiveAccordionTabs.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2287,11 +2487,13 @@
 	"/library/vendor/foundation-sites/docslink.sh": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/foundation-sites/docslink.sh",
 		"oF": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/foundation-plugins.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2302,6 +2504,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/foundation.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2312,6 +2515,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.abide.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2322,6 +2526,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.accordion.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2332,6 +2537,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.accordionMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2342,6 +2548,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.core.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2352,6 +2559,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.drilldown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2362,6 +2570,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.dropdown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2372,6 +2581,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.dropdownMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2382,6 +2592,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.equalizer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2392,6 +2603,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.interchange.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2402,6 +2614,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.magellan.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2412,6 +2625,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.offcanvas.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2422,6 +2636,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.orbit.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2432,6 +2647,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.responsiveAccordionTabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2442,6 +2658,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.responsiveMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2452,6 +2669,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.responsiveToggle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2462,6 +2680,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.reveal.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2472,6 +2691,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.slider.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2482,6 +2702,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.smoothScroll.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2492,6 +2713,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.sticky.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2502,6 +2724,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.tabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2512,6 +2735,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.toggler.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2522,6 +2746,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.tooltip.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2532,6 +2757,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.util.box.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2542,6 +2768,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.util.imageLoader.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2552,6 +2779,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.util.keyboard.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2562,6 +2790,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.util.mediaQuery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2572,6 +2801,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.util.motion.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2582,6 +2812,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.util.nest.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2592,6 +2823,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.util.timer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2602,6 +2834,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.util.touch.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2612,6 +2845,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/entries/plugins/foundation.util.triggers.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2622,6 +2856,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.abide.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2632,6 +2867,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.accordion.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2642,6 +2878,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.accordionMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2652,6 +2889,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.core.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2662,6 +2900,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.drilldown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2672,6 +2911,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.dropdown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2682,6 +2922,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.dropdownMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2692,6 +2933,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.equalizer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2702,6 +2944,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.interchange.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2712,6 +2955,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.magellan.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2722,6 +2966,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.offcanvas.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2732,6 +2977,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.orbit.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2742,6 +2988,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.plugin.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2752,6 +2999,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.positionable.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2762,6 +3010,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.responsiveAccordionTabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2772,6 +3021,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.responsiveMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2782,6 +3032,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.responsiveToggle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2792,6 +3043,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.reveal.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2802,6 +3054,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.slider.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2812,6 +3065,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.smoothScroll.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2822,6 +3076,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.sticky.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2832,6 +3087,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.tabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2842,6 +3098,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.toggler.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2852,6 +3109,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.tooltip.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2862,6 +3120,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.util.box.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2872,6 +3131,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.util.core.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2882,6 +3142,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.util.imageLoader.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2892,6 +3153,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.util.keyboard.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2902,6 +3164,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.util.mediaQuery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2912,6 +3175,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.util.motion.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2922,6 +3186,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.util.nest.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2932,6 +3197,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.util.timer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2942,6 +3208,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.util.touch.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2952,6 +3219,7 @@
 		"tS": 0
 		},
 	"/library/vendor/foundation-sites/js/foundation.util.triggers.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2964,6 +3232,7 @@
 	"/library/vendor/foundation-sites/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/foundation-sites/LICENSE",
 		"oF": 0
@@ -2984,6 +3253,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/foundation-sites/README.html",
 		"oF": 0,
@@ -4360,6 +4630,7 @@
 		"uL": 1
 		},
 	"/library/vendor/foundation-sites/webpack.config.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4380,6 +4651,7 @@
 	"/library/vendor/jquery/AUTHORS.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/jquery/AUTHORS.txt",
 		"oF": 0
@@ -4393,6 +4665,7 @@
 		"oS": 1
 		},
 	"/library/vendor/jquery/dist/core.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4403,6 +4676,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/dist/jquery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4413,6 +4687,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/dist/jquery.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4425,11 +4700,13 @@
 	"/library/vendor/jquery/dist/jquery.min.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/jquery/dist/jquery.min.map",
 		"oF": 0
 		},
 	"/library/vendor/jquery/dist/jquery.slim.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4440,6 +4717,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/dist/jquery.slim.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4452,11 +4730,13 @@
 	"/library/vendor/jquery/dist/jquery.slim.min.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/jquery/dist/jquery.slim.min.map",
 		"oF": 0
 		},
 	"/library/vendor/jquery/external/sizzle/dist/sizzle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4467,6 +4747,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/external/sizzle/dist/sizzle.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4479,6 +4760,7 @@
 	"/library/vendor/jquery/external/sizzle/dist/sizzle.min.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/jquery/external/sizzle/dist/sizzle.min.map",
 		"oF": 0
@@ -4486,6 +4768,7 @@
 	"/library/vendor/jquery/external/sizzle/LICENSE.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/jquery/external/sizzle/LICENSE.txt",
 		"oF": 0
@@ -4493,6 +4776,7 @@
 	"/library/vendor/jquery/LICENSE.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/jquery/LICENSE.txt",
 		"oF": 0
@@ -4505,6 +4789,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/jquery/README.html",
 		"oF": 0,
@@ -4524,6 +4809,7 @@
 		"oS": 1
 		},
 	"/library/vendor/jquery/src/ajax.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4534,6 +4820,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/ajax/jsonp.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4544,6 +4831,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/ajax/load.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4554,6 +4842,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/ajax/parseXML.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4564,6 +4853,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/ajax/script.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4574,6 +4864,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/ajax/var/location.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4584,6 +4875,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/ajax/var/nonce.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4594,6 +4886,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/ajax/var/rquery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4604,6 +4897,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/ajax/xhr.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4614,6 +4908,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/attributes.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4624,6 +4919,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/attributes/attr.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4634,6 +4930,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/attributes/classes.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4644,6 +4941,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/attributes/prop.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4654,6 +4952,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/attributes/support.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4664,6 +4963,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/attributes/val.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4674,6 +4974,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/callbacks.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4684,6 +4985,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4694,6 +4996,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/access.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4704,6 +5007,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/camelCase.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4714,6 +5018,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/DOMEval.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4724,6 +5029,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/init.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4734,6 +5040,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/nodeName.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4744,6 +5051,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/parseHTML.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4754,6 +5062,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/ready-no-deferred.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4764,6 +5073,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/ready.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4774,6 +5084,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/readyException.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4784,6 +5095,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/stripAndCollapse.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4794,6 +5106,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/support.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4804,6 +5117,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/toType.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4814,6 +5128,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/core/var/rsingleTag.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4824,6 +5139,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4834,6 +5150,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css/addGetHookIf.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4844,6 +5161,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css/adjustCSS.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4854,6 +5172,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css/curCSS.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4864,6 +5183,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css/hiddenVisibleSelectors.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4874,6 +5194,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css/showHide.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4884,6 +5205,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css/support.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4894,6 +5216,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css/var/cssExpand.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4904,6 +5227,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css/var/getStyles.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4914,6 +5238,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css/var/isHiddenWithinTree.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4924,6 +5249,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css/var/rboxStyle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4934,6 +5260,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css/var/rnumnonpx.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4944,6 +5271,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/css/var/swap.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4954,6 +5282,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/data.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4964,6 +5293,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/data/Data.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4974,6 +5304,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/data/var/acceptData.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4984,6 +5315,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/data/var/dataPriv.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4994,6 +5326,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/data/var/dataUser.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5004,6 +5337,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/deferred.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5014,6 +5348,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/deferred/exceptionHook.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5024,6 +5359,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/deprecated.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5034,6 +5370,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/dimensions.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5044,6 +5381,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/effects.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5054,6 +5392,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/effects/animatedSelector.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5064,6 +5403,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/effects/Tween.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5074,6 +5414,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/event.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5084,6 +5425,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/event/ajax.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5094,6 +5436,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/event/alias.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5104,6 +5447,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/event/focusin.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5114,6 +5458,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/event/support.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5124,6 +5469,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/event/trigger.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5134,6 +5480,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/exports/amd.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5144,6 +5491,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/exports/global.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5154,6 +5502,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/jquery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5164,6 +5513,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/manipulation.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5174,6 +5524,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/manipulation/_evalUrl.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5184,6 +5535,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/manipulation/buildFragment.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5194,6 +5546,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/manipulation/getAll.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5204,6 +5557,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/manipulation/setGlobalEval.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5214,6 +5568,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/manipulation/support.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5224,6 +5579,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/manipulation/var/rcheckableType.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5234,6 +5590,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/manipulation/var/rscriptType.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5244,6 +5601,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/manipulation/var/rtagName.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5254,6 +5612,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/manipulation/wrapMap.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5264,6 +5623,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/offset.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5274,6 +5634,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/queue.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5284,6 +5645,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/queue/delay.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5294,6 +5656,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/selector-native.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5304,6 +5667,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/selector-sizzle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5314,6 +5678,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/selector.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5324,6 +5689,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/serialize.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5334,6 +5700,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/traversing.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5344,6 +5711,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/traversing/findFilter.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5354,6 +5722,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/traversing/var/dir.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5364,6 +5733,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/traversing/var/rneedsContext.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5374,6 +5744,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/traversing/var/siblings.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5384,6 +5755,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/arr.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5394,6 +5766,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/class2type.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5404,6 +5777,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/concat.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5414,6 +5788,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/document.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5424,6 +5799,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/documentElement.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5434,6 +5810,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/fnToString.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5444,6 +5821,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/getProto.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5454,6 +5832,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/hasOwn.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5464,6 +5843,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/indexOf.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5474,6 +5854,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/isFunction.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5484,6 +5865,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/isWindow.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5494,6 +5876,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/ObjectFunctionString.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5504,6 +5887,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/pnum.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5514,6 +5898,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/push.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5524,6 +5909,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/rcssNum.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5534,6 +5920,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/rnothtmlwhite.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5544,6 +5931,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/slice.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5554,6 +5942,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/support.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5564,6 +5953,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/var/toString.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5574,6 +5964,7 @@
 		"tS": 0
 		},
 	"/library/vendor/jquery/src/wrap.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5618,6 +6009,7 @@
 		"oS": 3
 		},
 	"/library/vendor/motion-ui/dist/motion-ui.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5638,6 +6030,7 @@
 		"oS": 3
 		},
 	"/library/vendor/motion-ui/dist/motion-ui.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5655,6 +6048,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/motion-ui/docs/animations.html",
 		"oF": 0,
@@ -5673,6 +6067,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/motion-ui/docs/classes.html",
 		"oF": 0,
@@ -5691,6 +6086,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/motion-ui/docs/configuration.html",
 		"oF": 0,
@@ -5709,6 +6105,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/motion-ui/docs/installation.html",
 		"oF": 0,
@@ -5727,6 +6124,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/motion-ui/docs/javascript.html",
 		"oF": 0,
@@ -5745,6 +6143,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/motion-ui/docs/readme.html",
 		"oF": 0,
@@ -5763,6 +6162,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/motion-ui/docs/transitions.html",
 		"oF": 0,
@@ -5781,6 +6181,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/motion-ui/docs/wow.html",
 		"oF": 0,
@@ -5792,6 +6193,7 @@
 		"uCM": 0
 		},
 	"/library/vendor/motion-ui/gulpfile.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5802,6 +6204,7 @@
 		"tS": 0
 		},
 	"/library/vendor/motion-ui/lib/handlebars.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5814,6 +6217,7 @@
 	"/library/vendor/motion-ui/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/motion-ui/LICENSE",
 		"oF": 0
@@ -5826,6 +6230,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/motion-ui/meteor-README.html",
 		"oF": 0,
@@ -5837,6 +6242,7 @@
 		"uCM": 0
 		},
 	"/library/vendor/motion-ui/motion-ui.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5860,6 +6266,7 @@
 		"uL": 1
 		},
 	"/library/vendor/motion-ui/package.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5885,6 +6292,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/motion-ui/README.html",
 		"oF": 0,
@@ -6192,6 +6600,7 @@
 	"/library/vendor/what-input/.editorconfig": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/what-input/.editorconfig",
 		"oF": 0
@@ -6199,6 +6608,7 @@
 	"/library/vendor/what-input/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/what-input/.gitignore",
 		"oF": 0
@@ -6206,11 +6616,13 @@
 	"/library/vendor/what-input/.nvmrc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/what-input/.nvmrc",
 		"oF": 0
 		},
 	"/library/vendor/what-input/dist/lte-IE8.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6221,6 +6633,7 @@
 		"tS": 0
 		},
 	"/library/vendor/what-input/dist/what-input.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6231,6 +6644,7 @@
 		"tS": 0
 		},
 	"/library/vendor/what-input/dist/what-input.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6241,6 +6655,7 @@
 		"tS": 0
 		},
 	"/library/vendor/what-input/Gulpfile.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6253,6 +6668,7 @@
 	"/library/vendor/what-input/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/what-input/LICENSE",
 		"oF": 0
@@ -6273,6 +6689,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/library/vendor/what-input/README.html",
 		"oF": 0,
@@ -6296,11 +6713,13 @@
 	"/library/vendor/what-input/src/markup/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/what-input/src/markup/index.html",
 		"oF": 0
 		},
 	"/library/vendor/what-input/src/scripts/polyfills/ie8/EventListener.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6311,6 +6730,7 @@
 		"tS": 0
 		},
 	"/library/vendor/what-input/src/scripts/polyfills/ie8/indexOf.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6321,6 +6741,7 @@
 		"tS": 0
 		},
 	"/library/vendor/what-input/src/scripts/what-input.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6395,6 +6816,7 @@
 	"/library/vendor/what-input/src/styles/index.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/what-input/src/styles/index.css.map",
 		"oF": 0
@@ -6415,6 +6837,7 @@
 	"/library/vendor/what-input/yarn.lock": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/library/vendor/what-input/yarn.lock",
 		"oF": 0
@@ -6422,6 +6845,7 @@
 	"/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/LICENSE",
 		"oF": 0
@@ -6429,6 +6853,7 @@
 	"/page.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/page.php",
 		"oF": 0
@@ -6436,6 +6861,7 @@
 	"/parts/content-author-info.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/content-author-info.php",
 		"oF": 0
@@ -6443,6 +6869,7 @@
 	"/parts/content-none.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/content-none.php",
 		"oF": 0
@@ -6450,6 +6877,7 @@
 	"/parts/content-offcanvas-left.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/content-offcanvas-left.php",
 		"oF": 0
@@ -6457,6 +6885,7 @@
 	"/parts/content-offcanvas-right.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/content-offcanvas-right.php",
 		"oF": 0
@@ -6464,6 +6893,7 @@
 	"/parts/loop-archive-grid.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/loop-archive-grid.php",
 		"oF": 0
@@ -6471,6 +6901,7 @@
 	"/parts/loop-archive.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/loop-archive.php",
 		"oF": 0
@@ -6478,6 +6909,7 @@
 	"/parts/loop-page.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/loop-page.php",
 		"oF": 0
@@ -6485,6 +6917,7 @@
 	"/parts/loop-single.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/loop-single.php",
 		"oF": 0
@@ -6492,6 +6925,7 @@
 	"/parts/nav-offcanvas-topbar.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/nav-offcanvas-topbar.php",
 		"oF": 0
@@ -6499,6 +6933,7 @@
 	"/parts/nav-offcanvas.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/nav-offcanvas.php",
 		"oF": 0
@@ -6506,6 +6941,7 @@
 	"/parts/nav-title-bar-drilldown.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/nav-title-bar-drilldown.php",
 		"oF": 0
@@ -6513,6 +6949,7 @@
 	"/parts/nav-title-bar.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/nav-title-bar.php",
 		"oF": 0
@@ -6520,27 +6957,18 @@
 	"/parts/nav-topbar.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/parts/nav-topbar.php",
 		"oF": 0
 		},
-	"/README.md": {
+	"/readme.txt": {
 		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/readme.txt",
+		"oF": 0
 		},
 	"/screenshot.png": {
 		"ft": 32768,
@@ -6556,6 +6984,7 @@
 	"/search.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/search.php",
 		"oF": 0
@@ -6563,6 +6992,7 @@
 	"/searchform.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/searchform.php",
 		"oF": 0
@@ -6570,6 +7000,7 @@
 	"/sidebar-left.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/sidebar-left.php",
 		"oF": 0
@@ -6577,6 +7008,7 @@
 	"/sidebar.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/sidebar.php",
 		"oF": 0
@@ -6584,6 +7016,7 @@
 	"/single-custom_type.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/single-custom_type.php",
 		"oF": 0
@@ -6591,6 +7024,7 @@
 	"/single.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/single.php",
 		"oF": 0
@@ -6608,6 +7042,7 @@
 	"/taxonomy-custom_type.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/taxonomy-custom_type.php",
 		"oF": 0
@@ -6615,6 +7050,7 @@
 	"/template-full-width.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/template-full-width.php",
 		"oF": 0
@@ -6622,6 +7058,7 @@
 	"/template-sidebar-left.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/template-sidebar-left.php",
 		"oF": 0
@@ -6670,6 +7107,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -6681,6 +7119,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -6751,6 +7190,12 @@
 		"function-sent": {
 			"active": 0
 			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
 		"instanceof": {
 			"active": 0
 			},
@@ -6772,6 +7217,36 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
+			"active": 0
+			},
 		"modules-amd": {
 			"active": 0
 			},
@@ -6782,6 +7257,9 @@
 			"active": 0
 			},
 		"modules-umd": {
+			"active": 0
+			},
+		"named-capturing-groups-regex": {
 			"active": 0
 			},
 		"new-target": {
@@ -6817,7 +7295,13 @@
 		"parameters": {
 			"active": 0
 			},
+		"partial-application": {
+			"active": 0
+			},
 		"pipeline-operator": {
+			"active": 0
+			},
+		"private-methods": {
 			"active": 0
 			},
 		"property-literals": {
@@ -6853,10 +7337,16 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
 			"active": 0
 			},
 		"reserved-words": {
@@ -6900,11 +7390,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -7049,6 +7538,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -7150,6 +7640,10 @@
 			"optionString": "'all'"
 			},
 		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"default-param-last": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -7501,6 +7995,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-import-assign": {
+			"active": 1,
+			"optionString": ""
+			},
 		"no-inline-comments": {
 			"active": 0,
 			"optionString": ""
@@ -7805,6 +8303,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 0,
 			"optionString": ""
@@ -7905,6 +8407,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -7916,6 +8422,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -8467,6 +8977,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -8488,6 +8999,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
@@ -8510,7 +9022,8 @@
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -8522,7 +9035,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -8549,6 +9061,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -8558,7 +9071,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -8579,7 +9093,8 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -8608,7 +9123,8 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -8651,8 +9167,16 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
@@ -8696,16 +9220,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"ascii_only": {
-			"active": 0,
+		"arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare_returns": {
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"braces": {
@@ -8717,14 +9245,14 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -8747,6 +9275,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -8772,10 +9304,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"html5_comments": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"ie8": {
 			"active": 0,
 			"flagValue": -1
@@ -8784,13 +9312,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-start": {
-			"active": 0,
-			"flagValue": 0
-			},
 		"indent_level": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
 			},
 		"inline": {
 			"active": 1,
@@ -8802,6 +9330,10 @@
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -8824,13 +9356,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
@@ -8839,10 +9371,6 @@
 		"passes": {
 			"active": 1,
 			"flagValue": 1
-			},
-		"preserve_line": {
-			"active": 0,
-			"flagValue": -1
 			},
 		"properties": {
 			"active": 1,
@@ -8866,6 +9394,10 @@
 			},
 		"reduce_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -8900,6 +9432,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"unsafe_comps": {
 			"active": 0,
 			"flagValue": -1
@@ -8909,6 +9445,10 @@
 			"flagValue": -1
 			},
 		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -8936,15 +9476,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
-			},
 		"wrap_iife": {
 			"active": 0,
 			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": ""
 	},
